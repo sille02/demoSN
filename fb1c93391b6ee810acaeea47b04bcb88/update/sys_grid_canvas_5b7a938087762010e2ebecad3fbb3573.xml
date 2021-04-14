@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA UST - Calendário">177a938087762010e2ebecad3fbb3572</legacy_page>
+        <name>PA Estoque - New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-05 12:08:01</sys_created_on>
+        <sys_id>5b7a938087762010e2ebecad3fbb3573</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Estoque - New Tab 2</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_grid_canvas_5b7a938087762010e2ebecad3fbb3573</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-05 12:08:01</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

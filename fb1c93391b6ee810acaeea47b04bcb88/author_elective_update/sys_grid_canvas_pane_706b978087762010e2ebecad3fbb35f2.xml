@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Estoque - New Tab 2">5b7a938087762010e2ebecad3fbb3573</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2021-03-05 04:11:57">f46b978087762010e2ebecad3fbb35f0</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-05 12:11:57</sys_created_on>
+        <sys_id>706b978087762010e2ebecad3fbb35f2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>5b7a938087762010e2ebecad3fbb3573</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_706b978087762010e2ebecad3fbb35f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-05 12:12:31</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sys_grid_canvas_pane_706b978087762010e2ebecad3fbb35f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Estoque - New Tab 2">5b7a938087762010e2ebecad3fbb3573</grid_canvas><height>10</height><portal_widget display_value="Created 2021-03-05 04:11:57">f46b978087762010e2ebecad3fbb35f0</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-05 12:11:57</sys_created_on><sys_id>706b978087762010e2ebecad3fbb35f2</sys_id><sys_mod_count>3</sys_mod_count><sys_name>5b7a938087762010e2ebecad3fbb3573</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sys_grid_canvas_pane_706b978087762010e2ebecad3fbb35f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-05 12:12:31</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>974219141</payload_hash>
+        <record_name>5b7a938087762010e2ebecad3fbb3573</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-05 12:12:31</sys_created_on>
+        <sys_id>d98b5bc087762010e2ebecad3fbb359c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178024dbb430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-05 12:12:31</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>918b5bc0e876201037d2a78ab1b70f9c</update_guid>
+        <update_guid_history>918b5bc0e876201037d2a78ab1b70f9c:974219141,8f7b1780fa7620103c3037ff8dcf0479:247005140,207bd3802f762010ddbca7a4fc9d6b4d:974219141,746b9780a6762010f5ec3e4e75decaf3:247005140</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-05 12:12:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>046eee55652147a9b3787ced4aac2439</sys_id>
+        <sys_metadata>706b978087762010e2ebecad3fbb35f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5b7a938087762010e2ebecad3fbb3573</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_706b978087762010e2ebecad3fbb35f2</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_706b978087762010e2ebecad3fbb35f2">d98b5bc087762010e2ebecad3fbb359c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-05 12:12:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

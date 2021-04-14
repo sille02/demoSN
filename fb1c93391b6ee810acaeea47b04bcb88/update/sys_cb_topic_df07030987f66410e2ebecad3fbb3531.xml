@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <auto_resolution_enabled>false</auto_resolution_enabled>
+        <category>8c13034587f66410e2ebecad3fbb356e</category>
+        <channels/>
+        <connect_queue/>
+        <description>SEDES-GDF chamados</description>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "graph_api_version": "1.0.31",
+  "goals": {
+    "primary": {
+      "id": "primary",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "f3989dceb2c04760a00e8de0f060b5a6": {
+          "id": "f3989dceb2c04760a00e8de0f060b5a6",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fala mano,"
+                  },
+                  {
+                    "type": "datapill",
+                    "dataPill": {
+                      "value": "{{vaInputs.user.user_name}}",
+                      "displayValue": "Input Variables➛User➛User ID"
+                    },
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "? Tudo bem?"
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          }
+        },
+        "81bcf52edaff4c0ea9c022b541257b48": {
+          "id": "81bcf52edaff4c0ea9c022b541257b48",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "f955df5429cc4072be6c6972623cb352": {
+          "stepType": "ChoicePrompt",
+          "name": "Tipo de serviço",
+          "prompt": {
+            "value": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "skippable": {
+            "value": "",
+            "mode": "query"
+          },
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "a225115250524d19ba05ad7f19ae38d0",
+          "id": "f955df5429cc4072be6c6972623cb352",
+          "withNluUserInput": false,
+          "skipIfFulfilled": false
+        },
+        "77ee968839f94975883e02d31b835460": {
+          "id": "77ee968839f94975883e02d31b835460",
+          "stepType": "Decision",
+          "name": "Decision"
+        },
+        "fc7917000a8943218e4faf615062858e": {
+          "id": "fc7917000a8943218e4faf615062858e",
+          "stepType": "ImplicitEnd"
+        }
+      },
+      "edges": [
+        {
+          "id": "236030992d8f46cba2f4d22f3b12611c",
+          "edgeType": "Edge",
+          "source": "f3989dceb2c04760a00e8de0f060b5a6",
+          "target": "f955df5429cc4072be6c6972623cb352",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "0dd8b667ecce4106b5e5b73e5317380d",
+          "edgeType": "Edge",
+          "source": "f955df5429cc4072be6c6972623cb352",
+          "target": "77ee968839f94975883e02d31b835460",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "b40aac4d4387492183fa2f547751a82d",
+          "edgeType": "Branch",
+          "source": "77ee968839f94975883e02d31b835460",
+          "target": "81bcf52edaff4c0ea9c022b541257b48",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.tipo_de_servi_o=1",
+            "mode": "query"
+          },
+          "label": "Manutenção Predial"
+        },
+        {
+          "id": "c486a74c806f4da6b6e0cadd51b69a2d",
+          "edgeType": "Branch",
+          "source": "77ee968839f94975883e02d31b835460",
+          "target": "fc7917000a8943218e4faf615062858e",
+          "sourcePort": "",
+          "targetPort": "",
+          "expression": {
+            "value": "vaInputs.tipo_de_servi_o=2",
+            "mode": "query"
+          },
+          "label": "Serviço de Engenharia"
+        }
+      ]
+    }
+  },
+  "variables": {
+    "current-user": {
+      "category": "vaInputs",
+      "id": "current-user",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    },
+    "a225115250524d19ba05ad7f19ae38d0": {
+      "id": "a225115250524d19ba05ad7f19ae38d0",
+      "name": "tipo_de_servi_o",
+      "label": "Tipo De Serviço",
+      "varType": "choice",
+      "choices": [
+        {
+          "label": "Manutenção Predial",
+          "value": "1"
+        },
+        {
+          "label": "Serviços de Engenharia",
+          "value": "2",
+          "checked": true
+        }
+      ],
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>SEDES - Chamados</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>SEDES - Chamados</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 13:17:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>df07030987f66410e2ebecad3fbb3531</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SEDES - Chamados</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_cb_topic_df07030987f66410e2ebecad3fbb3531</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 13:41:17</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=df07030987f66410e2ebecad3fbb3531"/>
+</record_update>

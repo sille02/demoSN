@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_snc_gdf_sedes_estoque" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-05 19:26:50</sys_created_on>
+            <sys_id>57eeb4dc877e2010e2ebecad3fbb358a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gdf_sedes_estoque_u_choice_1</sys_update_name>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-05 19:26:50</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>A1 - Santa Maria</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-05 19:26:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbeeb4dc877e2010e2ebecad3fbb3589</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 10:54:39</sys_updated_on>
+            <value>a1 - santa maria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Bloca A</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 12:05:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>830d32e187832010e2ebecad3fbb353b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 14:40:06</sys_updated_on>
+            <value>bloca a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bloco 1</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-23 12:53:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f771988a8743a010e2ebecad3fbb35d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Bloco A</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 14:40:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b850a36987472010e2ebecad3fbb353d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Seleção 1</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 10:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6bc22e587032010e2ebecad3fbb35f0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 12:05:59</sys_updated_on>
+            <value>Seleção 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>A2 - Taguatinga</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-05 19:26:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1feeb4dc877e2010e2ebecad3fbb358b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 10:54:39</sys_updated_on>
+            <value>a2 - taguatinga</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Bloco B</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 12:05:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>070d32e187832010e2ebecad3fbb353c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco b</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bloco2 2</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-23 12:53:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7771988a8743a010e2ebecad3fbb35d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco2 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Seleção 2</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 10:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dabc22e587032010e2ebecad3fbb35f1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 12:05:59</sys_updated_on>
+            <value>Seleção 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Seleção 3</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 10:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ebc22e587032010e2ebecad3fbb35f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 14:40:06</sys_updated_on>
+            <value>Seleção 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>A3 - Asa Norte</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-05 19:26:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9feeb4dc877e2010e2ebecad3fbb358c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 10:54:39</sys_updated_on>
+            <value>a3 - asa norte</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bloco 3</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-23 12:53:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f771988a8743a010e2ebecad3fbb35d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Bloco C</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 14:40:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c50a36987472010e2ebecad3fbb353e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-23 12:53:25</sys_updated_on>
+            <value>bloco c</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Record producer for: PCSO - AIOPs Demo Loader">f182e5e71b532010acaeea47b04bcbec</catalog_item>
+        <catalog_variable>load_experience_id</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 20:54:04</sys_created_on>
+        <sys_id>128269e71b532010acaeea47b04bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_128269e71b532010acaeea47b04bcb4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 20:54:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Load Experience ID">9e8269e71b532010acaeea47b04bcb48</ui_policy>
+        <variable/>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>catalog_ui_policy_action_128269e71b532010acaeea47b04bcb4b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Record producer for: PCSO - AIOPs Demo Loader">f182e5e71b532010acaeea47b04bcbec</catalog_item><catalog_variable>load_experience_id</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-09 20:54:04</sys_created_on><sys_id>128269e71b532010acaeea47b04bcb4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>catalog_ui_policy_action_128269e71b532010acaeea47b04bcb4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-09 20:54:04</sys_updated_on><table/><ui_policy display_value="Hide Load Experience ID">9e8269e71b532010acaeea47b04bcb48</ui_policy><variable/><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1366543580</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 20:54:04</sys_created_on>
+        <sys_id>968269e71b532010acaeea47b04bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178b869cc900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 20:54:04</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>9e8269e7425320105c27844d76f8694c</update_guid>
+        <update_guid_history>9e8269e7425320105c27844d76f8694c:-1366543580</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d28269e71b532010acaeea47b04bcb5f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 20:54:04</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>7876b8cf4eb642deb099a0c0af1b2239</sys_id>
+        <sys_metadata>128269e71b532010acaeea47b04bcb4b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_128269e71b532010acaeea47b04bcb4b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_128269e71b532010acaeea47b04bcb4b">968269e71b532010acaeea47b04bcb4d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 20:54:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:25</sys_created_on>
+        <sys_id>155ec2ae1be62050acaeea47b04bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FALTA DE ENERGIA.Any User</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_155ec2ae1be62050acaeea47b04bcba6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:25</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_155ec2ae1be62050acaeea47b04bcba6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-28 14:44:25</sys_created_on><sys_id>155ec2ae1be62050acaeea47b04bcba6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FALTA DE ENERGIA.Any User</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_155ec2ae1be62050acaeea47b04bcba6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-28 14:44:25</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1975486116</payload_hash>
+        <record_name>FALTA DE ENERGIA.Any User</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:25</sys_created_on>
+        <sys_id>555ec2ae1be62050acaeea47b04bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177e918fe060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:25</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>995ec2ae9ae6205029a801650175a6a9</update_guid>
+        <update_guid_history>995ec2ae9ae6205029a801650175a6a9:1975486116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="FALTA DE ENERGIA.Any User">9eaecaae1be62050acaeea47b04bcb4f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:45:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>169d4bb9c6e94fe6883fd713a24c6db1</sys_id>
+        <sys_metadata>155ec2ae1be62050acaeea47b04bcba6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FALTA DE ENERGIA.Any User</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent display_value="">b65b466a1be62050acaeea47b04bcb38</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_155ec2ae1be62050acaeea47b04bcba6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_155ec2ae1be62050acaeea47b04bcba6">555ec2ae1be62050acaeea47b04bcbaa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:45:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

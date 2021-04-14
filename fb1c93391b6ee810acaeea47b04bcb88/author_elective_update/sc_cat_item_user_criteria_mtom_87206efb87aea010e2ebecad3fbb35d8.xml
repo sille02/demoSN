@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Ar Condicionado Inoperante">efe3967b876ea010e2ebecad3fbb359d</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:14:46</sys_created_on>
+        <sys_id>87206efb87aea010e2ebecad3fbb35d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ar Condicionado Inoperante.Any User</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_87206efb87aea010e2ebecad3fbb35d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:14:46</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_87206efb87aea010e2ebecad3fbb35d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Ar Condicionado Inoperante">efe3967b876ea010e2ebecad3fbb359d</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-04 13:14:46</sys_created_on><sys_id>87206efb87aea010e2ebecad3fbb35d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ar Condicionado Inoperante.Any User</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_87206efb87aea010e2ebecad3fbb35d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-04 13:14:46</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-801750188</payload_hash>
+        <record_name>Ar Condicionado Inoperante.Any User</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:14:46</sys_created_on>
+        <sys_id>0b20623f87aea010e2ebecad3fbb3542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177fd605a050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:14:46</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>0320623f4eaea010bcb5a0e6246b5d42</update_guid>
+        <update_guid_history>0320623f4eaea010bcb5a0e6246b5d42:-801750188</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ar Condicionado Inoperante.Any User">e873fa7b8722e010e2ebecad3fbb35ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 14:38:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>80584862a001403b962b68e4d5638139</sys_id>
+        <sys_metadata>87206efb87aea010e2ebecad3fbb35d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ar Condicionado Inoperante.Any User</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_87206efb87aea010e2ebecad3fbb35d8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_87206efb87aea010e2ebecad3fbb35d8">0b20623f87aea010e2ebecad3fbb3542</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 14:38:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

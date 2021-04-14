@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_snc_gdf_sedes_chamado" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-02-28 22:54:43</sys_created_on>
+            <sys_id>e78e3b66876aec10e2ebecad3fbb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gdf_sedes_chamado_u_choice_1</sys_update_name>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-02-28 22:54:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>area1</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>leandro</sys_created_by>
+            <sys_created_on>2021-03-31 15:15:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>febeb5e08757a010e2ebecad3fbb35e3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>area1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Area2</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c7701a71b176010acaeea47b04bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>area2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Sim</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-02-28 22:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af8e3b66876aec10e2ebecad3fbb3528</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>sim</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Não</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-02-28 22:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>678e3b66876aec10e2ebecad3fbb352c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>não</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seleção 3</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>107701a71b176010acaeea47b04bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>Seleção 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>sec saude</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>leandro</sys_created_by>
+            <sys_created_on>2021-03-31 15:15:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bebeb5e08757a010e2ebecad3fbb35e8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>sec saude</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Mais ou menos</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-02-28 22:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>238e3b66876aec10e2ebecad3fbb352f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>mais ou menos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>sec xpto</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>leandro</sys_created_by>
+            <sys_created_on>2021-03-31 15:15:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fabeb5e08757a010e2ebecad3fbb35ed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <value>sec xpto</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

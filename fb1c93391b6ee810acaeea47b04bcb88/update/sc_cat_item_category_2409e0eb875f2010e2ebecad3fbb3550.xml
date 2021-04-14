@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Ponto de Internet">a128e82b875f2010e2ebecad3fbb3572</sc_cat_item>
+        <sc_category display_value="Cabeamento">50e21ee21b2a2050acaeea47b04bcb9b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 16:42:44</sys_created_on>
+        <sys_id>2409e0eb875f2010e2ebecad3fbb3550</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cabeamento.Ponto de Internet</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_category_2409e0eb875f2010e2ebecad3fbb3550</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 16:42:44</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Pedido" max_length="40" name="x_snc_gdf_sedes_pedido" sizeclass="41" type="collection">
+        <element label="Chamado" max_length="32" name="chamado_vinculado" reference="x_snc_gdf_sedes_chamado" type="reference"/>
+        <element label="Lista concluída" max_length="40" name="lista_concluida" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Responsável Técnico" max_length="32" name="responsavel" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Situação" max_length="40" name="situacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aberto" value="aberto"/>
+                <element inactive_on_update="false" label="Aguardando Gestão de OS" value="aguardando_estoque"/>
+                <element inactive_on_update="false" label="Liberado" value="liberado"/>
+                <element inactive_on_update="false" label="Rejeitado" value="rejeitado"/>
+            </choice>
+        </element>
+    </element>
+</database>

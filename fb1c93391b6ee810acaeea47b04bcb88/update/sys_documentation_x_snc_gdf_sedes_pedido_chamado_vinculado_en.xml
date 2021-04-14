@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="chamado_vinculado" label="Chamado" language="en" table="x_snc_gdf_sedes_pedido">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>chamado_vinculado</element>
+            <help/>
+            <hint/>
+            <label>Chamado</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_pedido</name>
+            <plural>Chamados</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 15:08:00</sys_created_on>
+            <sys_id>a380480a1b222c10acaeea47b04bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Chamado</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_gdf_sedes_pedido_chamado_vinculado_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 15:08:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Chamado" max_length="40" name="x_snc_gdf_sedes_chamado" sizeclass="54" type="collection">
+        <element label="Atendimento Técnico Concluído" max_length="40" name="atendimento_tecnico_concluido" type="boolean"/>
+        <element choice="3" label="Categoria" mandatory="true" max_length="40" name="categoria" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Manutenção Predial" sequence="100" value="manutencao_predial"/>
+                <element inactive_on_update="false" label="Serviço de Engenharia" sequence="200" value="servico_de_engenharia"/>
+                <element inactive_on_update="false" label="Manutenção de Equipamentos" sequence="300" value="manutencao_de_equipamentos"/>
+                <element inactive_on_update="false" label="Manutenção em Mobiliário" sequence="400" value="manutencao_em_mobiliario"/>
+            </choice>
+        </element>
+        <element label="Descrição Atendimento técnico" max_length="350" name="descricao_atendimento_tecnico" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Estado" max_length="40" name="estado" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1-Aberto" value="aberto"/>
+                <element inactive_on_update="false" label="2-Em Atendimento" value="em_atendimento"/>
+                <element inactive_on_update="false" label="3-Em Espera" value="em_espera"/>
+                <element inactive_on_update="false" label="4-Pendente" value="pendente"/>
+                <element inactive_on_update="false" label="5-Concluido" value="concluido"/>
+                <element inactive_on_update="false" label="99-Cancelado" value="cancelado"/>
+            </choice>
+        </element>
+        <element label="Pedido aprovado" max_length="40" name="pedido_aprovado" type="boolean"/>
+        <element choice="3" label="Necessário pedido de material" max_length="40" name="pedido_de_material" type="boolean">
+            <choice>
+                <element inactive_on_update="false" label="Não"/>
+                <element inactive_on_update="false" label="Sim" value="true"/>
+            </choice>
+        </element>
+        <element label="Carregar Pedido padrão?" max_length="40" name="pedido_padrao" type="boolean"/>
+        <element choice="1" dependent="subcategoria" dependent_on_field="subcategoria" display="true" label="Serviço" max_length="40" name="servico" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="eletrica" inactive_on_update="false" label="Falta de Energia" sequence="100" value="falta_de_energia"/>
+                <element dependent_value="eletrica" inactive_on_update="false" label="Implantar novos pontos tomada" sequence="110" value="implantar_tomada"/>
+                <element dependent_value="eletrica" hint="Instalação de lampadas, luminarias etc internamente no ambiente" inactive_on_update="false" label="Implantar Novos pontos Iluminação Interna" sequence="120" value="implantar_iluminacao_interna"/>
+                <element dependent_value="eletrica" hint="Substituição  de Lâmpadas identificadas como queimadas" inactive_on_update="false" label="Lâmpadas Queimadas" sequence="130" value="lampadas_queimadas"/>
+                <element dependent_value="cabeamento" hint="Quando identificado falta de conectividade com a rede." inactive_on_update="false" label="Falta de Internet" sequence="200" value="falta_de_internet"/>
+                <element dependent_value="cabeamento" hint="Inserir novos pontos de rede no ambiente" inactive_on_update="false" label="Implantar novos pontos de rede" sequence="210" value="implantar_rede"/>
+                <element dependent_value="ar_condicionado" hint="Quando o ar condicionado no ambiente não estiver funcional" inactive_on_update="false" label="Ar condicionado Inoperante" sequence="300" value="ar_condicionado_inoperante"/>
+                <element dependent_value="reparo" inactive_on_update="false" label="Mobiliario Avariado" sequence="800" value="mobiliario_avariado"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Situação" max_length="40" name="situacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aguardando Priorização" sequence="10" value="aguardando_priorizacao"/>
+                <element inactive_on_update="false" label="Verificando Material" sequence="20" value="verificando_material"/>
+                <element inactive_on_update="false" label="Em atendimento técnico" sequence="30" value="em_atendimento_tecnico"/>
+                <element inactive_on_update="false" label="Solicitado Material" sequence="40" value="solicitado_material"/>
+                <element inactive_on_update="false" label="Aguardando Terceiro" sequence="50" value="aguardando_terceiro"/>
+                <element inactive_on_update="false" label="Concluido" sequence="60" value="Concluido"/>
+            </choice>
+        </element>
+        <element choice="3" dependent="categoria" dependent_on_field="categoria" label="Subcategoria" max_length="40" name="subcategoria" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="manutencao_predial" inactive_on_update="false" label="Eletrica" sequence="100" value="eletrica"/>
+                <element dependent_value="manutencao_predial" inactive_on_update="false" label="Cabeamento" sequence="200" value="cabeamento"/>
+                <element dependent_value="manutencao_predial" inactive_on_update="false" label="Ar Condicionado" sequence="300" value="ar_condicionado"/>
+                <element dependent_value="manutencao_predial" inactive_on_update="false" label="Hidráulica" sequence="400" value="hidraulica"/>
+                <element dependent_value="manutencao_predial" inactive_on_update="false" label="Conservação Predial" sequence="500" value="conservacao_predial"/>
+                <element dependent_value="servico_de_engenharia" hint="Vistoria técnica em algum item do local" inactive_on_update="false" label="Vistoria" sequence="600" value="vistoria"/>
+                <element dependent_value="servico_de_engenharia" hint="Validação, ampliação ou acessibilidade de projetos existentes" inactive_on_update="false" label="Projeto" sequence="700" value="projeto"/>
+                <element dependent_value="manutencao_em_mobiliario" inactive_on_update="false" label="Reparo" sequence="800" value="reparo"/>
+            </choice>
+        </element>
+        <element choice="1" label="Terceiro" max_length="40" name="terceiro" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bombeiros" value="bombeiros"/>
+                <element inactive_on_update="false" label="CAESB" value="caesb"/>
+                <element inactive_on_update="false" label="CEB" value="ceb"/>
+            </choice>
+        </element>
+        <element label="Terceiros concluido" max_length="40" name="terceiros_concluido" type="boolean"/>
+        <element label="Unidade" max_length="32" name="unidade" reference="x_snc_gdf_sedes_unidades" reference_qual="ativo=true^EQ" reference_qual_condition="ativo=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Area demandte" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="area1" sequence="0" value="area1"/>
+                <element inactive_on_update="false" label="Area2" language="pb" sequence="1" value="area2"/>
+                <element inactive="true" inactive_on_update="true" label="Sim" language="pb" sequence="1" value="sim"/>
+                <element inactive="true" inactive_on_update="true" label="Não" language="pb" sequence="2" value="não"/>
+                <element inactive_on_update="false" label="Seleção 3" language="pb" sequence="2" value="Seleção 3"/>
+                <element inactive="true" inactive_on_update="true" label="sec saude" sequence="3" value="sec saude"/>
+                <element inactive="true" inactive_on_update="true" label="Mais ou menos" language="pb" sequence="4" value="mais ou menos"/>
+                <element inactive="true" inactive_on_update="true" label="sec xpto" sequence="5" value="sec xpto"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Novo Data" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

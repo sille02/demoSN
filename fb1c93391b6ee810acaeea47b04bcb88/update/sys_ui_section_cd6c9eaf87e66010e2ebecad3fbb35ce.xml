@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Atendimento Técnico" section_id="cd6c9eaf87e66010e2ebecad3fbb35ce" sys_domain="global" table="x_snc_gdf_sedes_chamado" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>atendimento_tecnico_concluido</element>
+            <position>0</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 18:24:12</sys_created_on>
+            <sys_id>126d5a23872a6010e2ebecad3fbb3581</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Atendimento Técnico" display_value="Atendimento Técnico" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">cd6c9eaf87e66010e2ebecad3fbb35ce</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 18:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descricao_atendimento_tecnico</element>
+            <position>1</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 18:24:12</sys_created_on>
+            <sys_id>966d5a23872a6010e2ebecad3fbb3581</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Atendimento Técnico" display_value="Atendimento Técnico" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">cd6c9eaf87e66010e2ebecad3fbb35ce</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 18:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Atendimento Técnico</caption>
+            <header>false</header>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 18:19:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd6c9eaf87e66010e2ebecad3fbb35ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gdf_sedes_chamado</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_ui_section_cd6c9eaf87e66010e2ebecad3fbb35ce</sys_update_name>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 18:19:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

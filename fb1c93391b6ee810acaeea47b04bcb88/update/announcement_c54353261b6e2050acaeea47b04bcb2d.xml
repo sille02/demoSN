@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2021-02-28 19:45:35</from>
+        <glyph/>
+        <glyph_alt_text/>
+        <name>AppSec - Notification Banner</name>
+        <public>false</public>
+        <roles>admin</roles>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <sn_communities_announcement_type/>
+        <sn_communities_forums/>
+        <sn_communities_notification>false</sn_communities_notification>
+        <sn_communities_notification_sent>false</sn_communities_notification_sent>
+        <sn_communities_portals>5b49418bdb4aa200b1f6f78eaf96195f</sn_communities_portals>
+        <sn_communities_selected_forums/>
+        <summary>Starting in Paris, ISC users can now subscribe to security email notifications. Begin updating by selecting Notification Preferences under your profile menu.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>c54353261b6e2050acaeea47b04bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AppSec - Notification Banner</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>announcement_c54353261b6e2050acaeea47b04bcb2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <title>Configure Security Notifications</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=c54353261b6e2050acaeea47b04bcb2d"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>details</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>c14353261b6e2050acaeea47b04bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>details_link_text</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>0d43d3261b6e2050acaeea47b04bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>glyph_alt_text</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>c543d3261b6e2050acaeea47b04bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>name</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>4543d3261b6e2050acaeea47b04bcb85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>AppSec - Notification Banner</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>summary</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>c94353261b6e2050acaeea47b04bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>Starting in Paris, ISC users can now subscribe to security email notifications. Begin updating by selecting Notification Preferences under your profile menu.</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>c54353261b6e2050acaeea47b04bcb2d</documentkey>
+        <fieldname>title</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:35</sys_created_on>
+        <sys_id>094353261b6e2050acaeea47b04bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:35</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>Configure Security Notifications</value>
+    </sys_translated_text>
+</record_update>

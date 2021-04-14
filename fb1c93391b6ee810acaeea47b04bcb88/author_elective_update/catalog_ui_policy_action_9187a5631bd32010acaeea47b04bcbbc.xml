@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Record producer for: WFO - Clean &amp; Setup WFO data">c57e8620db6e6010858ec16c13961933</catalog_item>
+        <catalog_variable>load_experience_id</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 21:15:50</sys_created_on>
+        <sys_id>9187a5631bd32010acaeea47b04bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9187a5631bd32010acaeea47b04bcbbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 21:15:50</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Load Experience ID">1987a5631bd32010acaeea47b04bcbb8</ui_policy>
+        <variable/>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>catalog_ui_policy_action_9187a5631bd32010acaeea47b04bcbbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Record producer for: WFO - Clean &amp; Setup WFO data">c57e8620db6e6010858ec16c13961933</catalog_item><catalog_variable>load_experience_id</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-09 21:15:50</sys_created_on><sys_id>9187a5631bd32010acaeea47b04bcbbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>catalog_ui_policy_action_9187a5631bd32010acaeea47b04bcbbc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-09 21:15:50</sys_updated_on><table/><ui_policy display_value="Hide Load Experience ID">1987a5631bd32010acaeea47b04bcbb8</ui_policy><variable/><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1432098629</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 21:15:50</sys_created_on>
+        <sys_id>5587a5631bd32010acaeea47b04bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178b87dba660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 21:15:50</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>5d87a56354d320100b54540494a9cbbe</update_guid>
+        <update_guid_history>5d87a56354d320100b54540494a9cbbe:1432098629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c2e729a31bd32010acaeea47b04bcb16</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 21:17:32</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>1a296a91f555435ead4f246d4dce32c1</sys_id>
+        <sys_metadata>9187a5631bd32010acaeea47b04bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_9187a5631bd32010acaeea47b04bcbbc</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_9187a5631bd32010acaeea47b04bcbbc">5587a5631bd32010acaeea47b04bcbbf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 21:17:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

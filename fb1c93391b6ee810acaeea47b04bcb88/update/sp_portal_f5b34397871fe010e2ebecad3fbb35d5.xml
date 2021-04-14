@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary:#0071bb;
+$body-bg:#ffffff;
+$state-success-text:#1e4335;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#0071bb;
+$text-color:#2e2e2e;
+$sp-logo-margin-y:.5rem;
+$navbar-inverse-link-hover-color:#ffffff;
+$panel-bg:#fff;
+$brand-success:#48C891;
+$navbar-inverse-bg:#161d5a;
+$brand-warning:#DFD139;
+$brand-danger:#C83C36;
+$sp-tagline-color:#ffffff;
+$navbar-inverse-link-color:#A7B0B2;
+$brand-info:#6ABECF;
+$link-color:#1F8476;
+$sp-logo-margin-x:15px;
+$btn-default-bg:#fff;
+$text-muted:#666666;
+</css_variables>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="index_mti">06638357871fe010e2ebecad3fbb3597</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo>e476435b871fe010e2ebecad3fbb356d</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue display_value="Virtual Agent Support">f4d701b1b3900300f7d1a13816a8dc8e</sp_chat_queue>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 09:21:26</sys_created_on>
+        <sys_id>f5b34397871fe010e2ebecad3fbb35d5</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>MTI</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sp_portal_f5b34397871fe010e2ebecad3fbb35d5</sys_update_name>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-04-09 16:19:13</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>MTI</title>
+        <ts_index_group/>
+        <url_suffix>mti</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5b34397871fe010e2ebecad3fbb35d5"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f5b34397871fe010e2ebecad3fbb35d5</documentkey>
+        <fieldname>title</fieldname>
+        <language>pb</language>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-04-09 16:18:58</sys_created_on>
+        <sys_id>1c93e82b871f2010e2ebecad3fbb35f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-04-09 16:18:58</sys_updated_on>
+        <tablename>sp_portal</tablename>
+        <value>MTI</value>
+    </sys_translated_text>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>logo</file_name>
+        <hash>37b93da470b75aa1b1621f8275507cf4bdefba404db291acf9d7d77c41efbcdb</hash>
+        <image_height>21</image_height>
+        <image_width>70</image_width>
+        <size_bytes>593</size_bytes>
+        <size_compressed>616</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 09:32:06</sys_created_on>
+        <sys_id>e476435b871fe010e2ebecad3fbb356d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 09:32:06</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>f5b34397871fe010e2ebecad3fbb35d5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="e476435b871fe010e2ebecad3fbb356d">e476435b871fe010e2ebecad3fbb356d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 09:32:06</sys_created_on>
+        <sys_id>2876435b871fe010e2ebecad3fbb356d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AVECrv2JUE5HDQoaCgAAAA1JSERSAAAARgAAABUIBgAAAPs0mN0AAAAEc0JJVAgICAh8CGSIAAAACXBIWXMAAC2sAAAtrAEY9rk7AAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M26LyyjAAAABZ0RVh0Q3JlYXRpb24gVGltZQAwMi8wNC8xNvZY9WoAAAGpSURBVFiF7ZfhUcIwFMd/enynbuAG1AlMJwAnsE6gTmCdQJ2AMoFsQN0AN6gbdIP44cUDeglplAbk+N3l2qZ5SfrPy3sp+m8orTVa68LxvtFap6aNryRa67mjn8ozTijF2rhWzumXIVABuaddYtqN+51Od/oWBkScKW5xUqAGRhHm0pkBslK/pQloOwUUmwJNgBIR76AYANnacw5cBtiHCANwi2yb3Ng2gA7sIwqD1nMOXAfYV8g2CGFs7JS5ZsA73RakBBaW+hz7Vi1NafO1dq9sA7WFicUIEVQBS+AK+eDUY1djX4jMUgciwIenT6vtvoSBVcaasPKcF/wZbNc82SrbWUkBZwGl8gz6ht2VfxginpIj8Wbm6S8arnRdIEHRV5Sn/wa4A1497e47zTYiMc4xAI+IQDbmuGPE3oglDMiWythM8SVwQ3ja7x1X8C2xp8U2n4HjVYg4C8SLykD7aLiEqU1J2R4fHpB0G8ISuAi0iY4vXSdsP/AlO5zLQREzxvwrfB5TI6l72/ujpIswz+a+6HUmB0bIL4Ht6FxxpF5zijEOTsI4+AbFfE7bfcSwigAAAABJRU5ErkJggqseEBRRAgAA</data>
+        <length>808</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="e476435b871fe010e2ebecad3fbb356d">e476435b871fe010e2ebecad3fbb356d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 09:32:06</sys_created_on>
+        <sys_id>a876435b871fe010e2ebecad3fbb356d</sys_id>
+    </sys_attachment_doc>
+</record_update>

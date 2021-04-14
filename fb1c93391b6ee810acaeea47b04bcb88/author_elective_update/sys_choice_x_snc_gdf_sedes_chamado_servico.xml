@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="servico" table="x_snc_gdf_sedes_chamado" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>servico</element>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:33:45</sys_created_on>
+            <sys_id>24d0d67e87262050e2ebecad3fbb35f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>servico</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gdf_sedes_chamado_servico</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:33:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>eletrica</dependent_value>
+            <element>servico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Falta de Energia</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:33:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0db05a7e87262050e2ebecad3fbb35b5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:48:56</sys_updated_on>
+            <value>falta_de_energia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>eletrica</dependent_value>
+            <element>servico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Implantar novos pontos tomada</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>110</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:34:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dd0d27e87262050e2ebecad3fbb35aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:48:59</sys_updated_on>
+            <value>implantar_tomada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>eletrica</dependent_value>
+            <element>servico</element>
+            <hint>Instalação de lampadas, luminarias etc internamente no ambiente</hint>
+            <inactive>false</inactive>
+            <label>Implantar Novos pontos Iluminação Interna</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>120</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:35:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c015a7e87262050e2ebecad3fbb35be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:49:02</sys_updated_on>
+            <value>implantar_iluminacao_interna</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>eletrica</dependent_value>
+            <element>servico</element>
+            <hint>Substituição  de Lâmpadas identificadas como queimadas</hint>
+            <inactive>false</inactive>
+            <label>Lâmpadas Queimadas</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>130</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:36:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c41967e87262050e2ebecad3fbb3585</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:49:05</sys_updated_on>
+            <value>lampadas_queimadas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>cabeamento</dependent_value>
+            <element>servico</element>
+            <hint>Quando identificado falta de conectividade com a rede.</hint>
+            <inactive>false</inactive>
+            <label>Falta de Internet</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:37:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef81dabe87262050e2ebecad3fbb35d6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:49:08</sys_updated_on>
+            <value>falta_de_internet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>cabeamento</dependent_value>
+            <element>servico</element>
+            <hint>Inserir novos pontos de rede no ambiente</hint>
+            <inactive>false</inactive>
+            <label>Implantar novos pontos de rede</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>210</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3c156be87262050e2ebecad3fbb3551</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:49:11</sys_updated_on>
+            <value>implantar_rede</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ar_condicionado</dependent_value>
+            <element>servico</element>
+            <hint>Quando o ar condicionado no ambiente não estiver funcional</hint>
+            <inactive>false</inactive>
+            <label>Ar condicionado Inoperante</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:39:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2df1d2fe87262050e2ebecad3fbb3546</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:49:14</sys_updated_on>
+            <value>ar_condicionado_inoperante</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>reparo</dependent_value>
+            <element>servico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobiliario Avariado</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence>800</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 09:56:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70d59ab287662050e2ebecad3fbb3512</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 09:56:18</sys_updated_on>
+            <value>mobiliario_avariado</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

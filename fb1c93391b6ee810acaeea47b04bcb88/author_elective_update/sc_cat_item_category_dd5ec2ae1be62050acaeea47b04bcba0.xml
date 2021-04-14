@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item>
+        <sc_category display_value="Eletrica">35dc462e1be62050acaeea47b04bcb6f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:25</sys_created_on>
+        <sys_id>dd5ec2ae1be62050acaeea47b04bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eletrica.FALTA DE ENERGIA</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_category_dd5ec2ae1be62050acaeea47b04bcba0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:25</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_category_dd5ec2ae1be62050acaeea47b04bcba0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item><sc_category display_value="Eletrica">35dc462e1be62050acaeea47b04bcb6f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-28 14:44:25</sys_created_on><sys_id>dd5ec2ae1be62050acaeea47b04bcba0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Eletrica.FALTA DE ENERGIA</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_category_dd5ec2ae1be62050acaeea47b04bcba0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-28 14:44:25</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-80604220</payload_hash>
+        <record_name>Eletrica.FALTA DE ENERGIA</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:25</sys_created_on>
+        <sys_id>995ec2ae1be62050acaeea47b04bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177e918fdc60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>dd5ec2ae4ae62050ed4dc243530172a4</update_guid>
+        <update_guid_history>dd5ec2ae4ae62050ed4dc243530172a4:-80604220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Eletrica.FALTA DE ENERGIA">52aecaae1be62050acaeea47b04bcb30</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:45:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>6afcda858db2442286c5087fdb9e6804</sys_id>
+        <sys_metadata>dd5ec2ae1be62050acaeea47b04bcba0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eletrica.FALTA DE ENERGIA</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_dd5ec2ae1be62050acaeea47b04bcba0</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_dd5ec2ae1be62050acaeea47b04bcba0">995ec2ae1be62050acaeea47b04bcba5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:45:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>label</element>
+        <id/>
+        <label>BNB-CAPGV</label>
+        <language>pb</language>
+        <name>sys_sg_navigation_tab</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-03-22 10:58:30</sys_created_on>
+        <sys_id>669d262987032010e2ebecad3fbb35ae</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>BNB-CAPGV</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_translated_669d262987032010e2ebecad3fbb35ae</sys_update_name>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-03-22 14:45:07</sys_updated_on>
+        <value>GDF-SEDES</value>
+    </sys_translated>
+</record_update>

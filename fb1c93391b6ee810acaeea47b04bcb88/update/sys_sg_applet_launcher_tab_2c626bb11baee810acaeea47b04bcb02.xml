@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="MTI">e062ebb91b6ee810acaeea47b04bcbff</applet_launcher>
+        <icon display_value="Home GDF-SEDES">6c626bb11baee810acaeea47b04bcb02</icon>
+        <label>MT-I</label>
+        <roles>x_snc_gdf_sedes.chamado,x_snc_gdf_sedes.pedido_leitura,x_snc_gdf_sedes.pedido_escrita,x_snc_gdf_sedes.estoque_leitura,x_snc_gdf_sedes.estoque_escrita,x_snc_gdf_sedes.saida_leitura,x_snc_gdf_sedes.saida_escrita,x_snc_gdf_sedes.entrada_leitura,x_snc_gdf_sedes.entrada_escrita</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 12:56:12</sys_created_on>
+        <sys_id>2c626bb11baee810acaeea47b04bcb02</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>MT-I</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_2c626bb11baee810acaeea47b04bcb02</sys_update_name>
+        <sys_updated_by>naomi.noc</sys_updated_by>
+        <sys_updated_on>2021-04-09 20:23:23</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

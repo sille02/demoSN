@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Problema em torneiras">ae47366e1baa2050acaeea47b04bcbe0</sc_cat_item>
+        <sc_catalog display_value="SEDES">bb9c422e1be62050acaeea47b04bcb34</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 18:01:50</sys_created_on>
+        <sys_id>1d8bf2661bea2050acaeea47b04bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SEDES.Problema em torneiras</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1d8bf2661bea2050acaeea47b04bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 18:01:50</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_catalog_1d8bf2661bea2050acaeea47b04bcb0f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Problema em torneiras">ae47366e1baa2050acaeea47b04bcbe0</sc_cat_item><sc_catalog display_value="SEDES">bb9c422e1be62050acaeea47b04bcb34</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-28 18:01:50</sys_created_on><sys_id>1d8bf2661bea2050acaeea47b04bcb0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SEDES.Problema em torneiras</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_catalog_1d8bf2661bea2050acaeea47b04bcb0f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-28 18:01:50</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2079897608</payload_hash>
+        <record_name>SEDES.Problema em torneiras</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 18:01:50</sys_created_on>
+        <sys_id>5d8bf2661bea2050acaeea47b04bcb17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177e9cdbc560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 18:01:50</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>558bf266faea2050e1407e7fe95f5417</update_guid>
+        <update_guid_history>558bf266faea2050e1407e7fe95f5417:2079897608</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SEDES.Problema em torneiras">338f036a8766ec10e2ebecad3fbb35e0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-02-28 19:29:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>75e117d49d184e16bfaab7624b3186a4</sys_id>
+        <sys_metadata>1d8bf2661bea2050acaeea47b04bcb0f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SEDES.Problema em torneiras</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent display_value="Problema em torneiras">ae47366e1baa2050acaeea47b04bcbe0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1d8bf2661bea2050acaeea47b04bcb0f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1d8bf2661bea2050acaeea47b04bcb0f">5d8bf2661bea2050acaeea47b04bcb17</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:29:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

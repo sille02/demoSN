@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Estoque - New Tab">4f544b8c87b22010e2ebecad3fbb3528</canvas_page>
+        <name>OS - Controles</name>
+        <page display_value="PA OS - Controles">0b544b8c87b22010e2ebecad3fbb3527</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-05 10:31:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f544b8c87b22010e2ebecad3fbb352b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>OS - Controles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>pa_tabs_0f544b8c87b22010e2ebecad3fbb352b</sys_update_name>
+        <sys_updated_by>joao</sys_updated_by>
+        <sys_updated_on>2021-04-09 17:14:19</sys_updated_on>
+    </pa_tabs>
+</record_update>

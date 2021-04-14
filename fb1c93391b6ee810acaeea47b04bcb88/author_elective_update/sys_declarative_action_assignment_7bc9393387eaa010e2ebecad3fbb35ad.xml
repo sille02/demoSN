@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment">
+    <sys_declarative_action_assignment action="DELETE">
+        <action/>
+        <action_attributes>{"showEmailDetails":"","replyType":"reply","targetTable":"","replyId":"","targetRecord":"","sysId":""}</action_attributes>
+        <action_name/>
+        <action_payload/>
+        <action_type>type</action_type>
+        <active>true</active>
+        <button_type>primary</button_type>
+        <client_action/>
+        <client_conditions/>
+        <client_conditions_on_fields/>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <create_access>false</create_access>
+        <declarative_action_render_mode/>
+        <declarative_action_type>action_component</declarative_action_type>
+        <delete_access>false</delete_access>
+        <dependency/>
+        <description/>
+        <design_icon display_value="address-card-outline">address_card_outline</design_icon>
+        <enabled>true</enabled>
+        <field_name/>
+        <field_type>glide_date</field_type>
+        <form_fields_required>false</form_fields_required>
+        <form_position>contexual_sidebar</form_position>
+        <group/>
+        <group_by>false</group_by>
+        <icon/>
+        <label>Enviar e-mail</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <model_conditions/>
+        <model_field_required/>
+        <order>0</order>
+        <payload_map/>
+        <read_access>false</read_access>
+        <record_conditions/>
+        <record_selection_required>false</record_selection_required>
+        <required_roles/>
+        <requires_value>false</requires_value>
+        <script_condition/>
+        <server_script/>
+        <specificity>22</specificity>
+        <sys_class_name>sys_declarative_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 10:28:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7bc9393387eaa010e2ebecad3fbb35ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_declarative_action_assignment_7bc9393387eaa010e2ebecad3fbb35ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 10:28:45</sys_updated_on>
+        <table>x_snc_gdf_sedes_chamado</table>
+        <tooltip/>
+        <ui_component display_value="now-email-client-composer-connected">26a4d05d7ce617ad4c19f3ce2bf823c1</ui_component>
+        <view/>
+        <workspace display_value="Agent Workspace">7b24ceae5304130084acddeeff7b12a3</workspace>
+        <write_access>false</write_access>
+    </sys_declarative_action_assignment>
+    <sys_translated_text action="DELETE" query="documentkey=7bc9393387eaa010e2ebecad3fbb35ad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sys_declarative_action_assignment_7bc9393387eaa010e2ebecad3fbb35ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment"><sys_declarative_action_assignment action="INSERT_OR_UPDATE"><action/><action_attributes>{"showEmailDetails":"","replyType":"reply","targetTable":"","replyId":"","targetRecord":"","sysId":""}</action_attributes><action_name/><action_payload/><action_type>type</action_type><active>true</active><button_type>primary</button_type><client_action/><client_conditions/><client_conditions_on_fields/><confirmation_message/><confirmation_required>false</confirmation_required><create_access>false</create_access><declarative_action_render_mode/><declarative_action_type>action_component</declarative_action_type><delete_access>false</delete_access><dependency/><description/><design_icon display_value="address-card-outline">address_card_outline</design_icon><enabled>true</enabled><field_name/><field_type>glide_date</field_type><form_fields_required>false</form_fields_required><form_position>contexual_sidebar</form_position><group/><group_by>false</group_by><icon/><label>Enviar e-mail</label><model display_value="Form">360935e9534723003eddddeeff7b127d</model><model_conditions/><model_field_required/><order>0</order><payload_map/><read_access>false</read_access><record_conditions/><record_selection_required>false</record_selection_required><required_roles/><requires_value>false</requires_value><script_condition/><server_script/><specificity>22</specificity><sys_class_name>sys_declarative_action_assignment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-04 10:28:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7bc9393387eaa010e2ebecad3fbb35ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sys_declarative_action_assignment_7bc9393387eaa010e2ebecad3fbb35ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-04 10:28:45</sys_updated_on><table>x_snc_gdf_sedes_chamado</table><tooltip/><ui_component display_value="now-email-client-composer-connected">26a4d05d7ce617ad4c19f3ce2bf823c1</ui_component><view/><workspace display_value="Agent Workspace">7b24ceae5304130084acddeeff7b12a3</workspace><write_access>false</write_access></sys_declarative_action_assignment><sys_translated_text action="delete_multiple" query="documentkey=7bc9393387eaa010e2ebecad3fbb35ad"/></record_update>]]></payload>
+        <payload_hash>-695378973</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 10:28:45</sys_created_on>
+        <sys_id>9b2af57387eaa010e2ebecad3fbb3579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177fcc85c270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 10:28:45</sys_updated_on>
+        <type>Action Assignment</type>
+        <update_guid>932af5739deaa010ca3920badb3b2a79</update_guid>
+        <update_guid_history>932af5739deaa010ca3920badb3b2a79:-695378973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maria</sys_created_by>
+        <sys_created_on>2021-03-04 16:07:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_declarative_action_assignment">sys_declarative_action_assignment</sys_db_object>
+        <sys_id>30bcad2ed1a94162bb18241ff684f2a1</sys_id>
+        <sys_metadata>7bc9393387eaa010e2ebecad3fbb35ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sys_declarative_action_assignment_7bc9393387eaa010e2ebecad3fbb35ad</sys_update_name>
+        <sys_update_version display_value="sys_declarative_action_assignment_7bc9393387eaa010e2ebecad3fbb35ad">9b2af57387eaa010e2ebecad3fbb3579</sys_update_version>
+        <sys_updated_by>maria</sys_updated_by>
+        <sys_updated_on>2021-03-04 16:07:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="5fecd6be87662050e2ebecad3fbb355f" sys_domain="global" table="x_snc_gdf_sedes_chamado" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>507701a71b176010acaeea47b04bcbcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process Flow">621cd23e87662050e2ebecad3fbb35f9</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>507701a71b176010acaeea47b04bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>d47701a71b176010acaeea47b04bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estado</element>
+            <position>3</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>5c7701a71b176010acaeea47b04bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>4</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>d07701a71b176010acaeea47b04bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>587701a71b176010acaeea47b04bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>dc7701a71b176010acaeea47b04bcbcd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>547701a71b176010acaeea47b04bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>situacao</element>
+            <position>8</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>d87701a71b176010acaeea47b04bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>507701a71b176010acaeea47b04bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>10</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>d47701a71b176010acaeea47b04bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pedido_de_material</element>
+            <position>11</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>5c7701a71b176010acaeea47b04bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pedido_padrao</element>
+            <position>12</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>e07701a71b176010acaeea47b04bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pedido_aprovado</element>
+            <position>13</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>687701a71b176010acaeea47b04bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>terceiros_concluido</element>
+            <position>14</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>ec7701a71b176010acaeea47b04bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>terceiro</element>
+            <position>15</position>
+            <sys_created_by>maria</sys_created_by>
+            <sys_created_on>2021-04-09 18:55:42</sys_created_on>
+            <sys_id>647701a71b176010acaeea47b04bcbd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_gdf_sedes_chamado" sys_domain="global" view="Default view">5fecd6be87662050e2ebecad3fbb355f</sys_ui_section>
+            <sys_updated_by>maria</sys_updated_by>
+            <sys_updated_on>2021-04-09 18:55:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-01 10:26:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fecd6be87662050e2ebecad3fbb355f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gdf_sedes_chamado</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_ui_section_5fecd6be87662050e2ebecad3fbb355f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-01 10:26:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="conta" table="x_snc_gdf_sedes_estoque" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>conta</element>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 13:31:02</sys_created_on>
+            <sys_id>c5805b2187072010e2ebecad3fbb3542</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>conta</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gdf_sedes_estoque_conta</sys_update_name>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 13:31:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>conta</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seleção 1</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 13:31:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d805b2187072010e2ebecad3fbb3541</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 13:31:02</sys_updated_on>
+            <value>Seleção 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>conta</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seleção 2</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 13:31:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41805b2187072010e2ebecad3fbb3544</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 13:31:02</sys_updated_on>
+            <value>Seleção 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>conta</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seleção 3</label>
+            <language>pb</language>
+            <name>x_snc_gdf_sedes_estoque</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-22 13:31:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1805b2187072010e2ebecad3fbb3545</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-22 13:31:02</sys_updated_on>
+            <value>Seleção 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
