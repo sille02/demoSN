@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Falta de Internet">a9b94a37872ea010e2ebecad3fbb3535</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 11:38:19</sys_created_on>
+        <sys_id>661aceb7872ea010e2ebecad3fbb3549</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Falta de Internet.SNC External</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_661aceb7872ea010e2ebecad3fbb3549</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 11:38:19</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_661aceb7872ea010e2ebecad3fbb3549</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Falta de Internet">a9b94a37872ea010e2ebecad3fbb3535</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-04 11:38:19</sys_created_on><sys_id>661aceb7872ea010e2ebecad3fbb3549</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Falta de Internet.SNC External</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_661aceb7872ea010e2ebecad3fbb3549</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-04 11:38:19</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1701733255</payload_hash>
+        <record_name>Falta de Internet.SNC External</record_name>
+        <reverted_from/>
+        <source>2a84a3231b122010acaeea47b04bcbc2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-02-19 13:19:16</sys_created_on>
+        <sys_id>bc3e163b87aea010e2ebecad3fbb35a9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>177ba71cc200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>7c3e163bf6aea010ccf1e2a98b9978a9</update_guid>
+        <update_guid_history>7c3e163bf6aea010ccf1e2a98b9978a9:-1701733255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Falta de Internet.SNC External">b83e163b87aea010e2ebecad3fbb35ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:06:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>3aa779fe6fa34164a37ce0ed24b6c821</sys_id>
+        <sys_metadata>661aceb7872ea010e2ebecad3fbb3549</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Falta de Internet.SNC External</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent display_value="Falta de Internet">a9b94a37872ea010e2ebecad3fbb3535</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_661aceb7872ea010e2ebecad3fbb3549</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_661aceb7872ea010e2ebecad3fbb3549">bc3e163b87aea010e2ebecad3fbb35a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:06:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

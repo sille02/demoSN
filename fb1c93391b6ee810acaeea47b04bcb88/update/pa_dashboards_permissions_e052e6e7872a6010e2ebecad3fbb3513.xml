@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Context Sensitive Analytics - Change">e4d3557ceb1012001e68286b1206fe5c</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681b365ec0a80164000fb0b05854a0cd</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>joao</sys_created_by>
+        <sys_created_on>2021-03-03 18:45:40</sys_created_on>
+        <sys_id>e052e6e7872a6010e2ebecad3fbb3513</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_e052e6e7872a6010e2ebecad3fbb3513</sys_update_name>
+        <sys_updated_by>joao</sys_updated_by>
+        <sys_updated_on>2021-03-03 18:45:40</sys_updated_on>
+        <type>3</type>
+        <user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

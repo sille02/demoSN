@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="OS Saída" max_length="40" name="x_snc_gdf_sedes_estoque_saida" sizeclass="48" type="collection">
+        <element attributes="encode_utf8=false,ref_ac_columns=material.material;material.codigo,ref_auto_completer=AJAXTableCompleter" display="true" label="Ordem de Serviço" max_length="32" name="material" reference="x_snc_gdf_sedes_estoque" type="reference"/>
+        <element label="Necessário" max_length="40" name="necessario" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Pedido Saída" max_length="32" name="pedido_saida" reference="x_snc_gdf_sedes_pedido" type="reference"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="pedido_saida"/>
+        </index>
+        <index name="index2">
+            <element name="material"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

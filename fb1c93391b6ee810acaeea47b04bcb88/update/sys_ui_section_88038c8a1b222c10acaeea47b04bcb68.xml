@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="88038c8a1b222c10acaeea47b04bcb68" sys_domain="global" table="x_snc_gdf_sedes_estoque_entrada" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>546fdff78726e010e2ebecad3fbb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material</element>
+            <position>1</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>106fdff78726e010e2ebecad3fbb35ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descricao</element>
+            <position>2</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>946fdff78726e010e2ebecad3fbb35ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>1c6fdff78726e010e2ebecad3fbb35ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantidade</element>
+            <position>4</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>906fdff78726e010e2ebecad3fbb35ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>186fdff78726e010e2ebecad3fbb35ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.material</element>
+            <position>6</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>9c6fdff78726e010e2ebecad3fbb35ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.quantidade_atual</element>
+            <position>7</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>146fdff78726e010e2ebecad3fbb35ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.codigo</element>
+            <position>8</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-04 17:50:55</sys_created_on>
+            <sys_id>986fdff78726e010e2ebecad3fbb35ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_estoque_entrada" sys_domain="global" view="Default view">88038c8a1b222c10acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-04 17:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_gdf_sedes_estoque_entrada</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 15:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88038c8a1b222c10acaeea47b04bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gdf_sedes_estoque_entrada</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_ui_section_88038c8a1b222c10acaeea47b04bcb68</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 15:18:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

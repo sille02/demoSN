@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="OS Entrada" max_length="40" name="x_snc_gdf_sedes_estoque_entrada" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Descrição" max_length="200" name="descricao" type="string"/>
+        <element attributes="encode_utf8=false" label="Material" max_length="32" name="material" reference="x_snc_gdf_sedes_estoque" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="material"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

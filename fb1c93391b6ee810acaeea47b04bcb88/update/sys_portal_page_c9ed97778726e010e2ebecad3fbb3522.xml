@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-04-14 20:15:13">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>joao</sys_created_by>
+        <sys_created_on>2021-03-04 17:44:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9ed97778726e010e2ebecad3fbb3522</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Chamados - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_portal_page_c9ed97778726e010e2ebecad3fbb3522</sys_update_name>
+        <sys_updated_by>joao</sys_updated_by>
+        <sys_updated_on>2021-03-04 17:44:24</sys_updated_on>
+        <title>PA Chamados - New Tab 2</title>
+        <user/>
+        <view>pa_chamados_-_new_tab_2</view>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-02 21:46:58</sys_created_on>
+        <sys_id>a2320e1f8722e050e2ebecad3fbb3535</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>level1</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_scope_privilege_a2320e1f8722e050e2ebecad3fbb3535</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-02 21:46:58</sys_updated_on>
+        <target_name>level1</target_name>
+        <target_scope display_value="DemoHub PA Data Generator">0569f0cadbfdbb00f669f40b0c961904</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

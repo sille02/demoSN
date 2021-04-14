@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Chamados DI</name>
+        <query_condition table="x_snc_gdf_sedes_chamado">^ORDERBYDESCsys_updated_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_updated_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 22:36:08</sys_created_on>
+        <sys_id>134af7a61b226050acaeea47b04bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chamados DI</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_sg_data_item_134af7a61b226050acaeea47b04bcbd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 22:36:08</sys_updated_on>
+        <table>x_snc_gdf_sedes_chamado</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=134af7a61b226050acaeea47b04bcbd3"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>134af7a61b226050acaeea47b04bcbd3</documentkey>
+        <fieldname>description</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 22:36:08</sys_created_on>
+        <sys_id>9f4af7a61b226050acaeea47b04bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 22:36:08</sys_updated_on>
+        <tablename>sys_sg_data_item</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

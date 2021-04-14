@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "data_visualization_1",
+  "elementLabel" : "Data visualization 1",
+  "propertyValues" : {
+    "label" : "Chamados - Total (Abertos)",
+    "chartType" : "single_score",
+    "dataConfigurations" : "[{\"__viz_config_id\":\"dGFibGV4X3NuY19nZGZfc2VkZXNfY2hhbWFkbzE2MTQ4MDgwNzUyNDg=\",\"__viz_config_label\":\"Chamado\",\"aggregate_function\":\"COUNT\",\"display_zero\":true,\"source_type\":\"table\",\"source_id\":\"x_snc_gdf_sedes_chamado\"}]",
+    "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":false,\"dataLabelConfig\":{\"align\":\"middle\",\"collisions\":\"hide\",\"stacked\":\"individual\",\"valueType\":\"both\"}}",
+    "isRealtime" : true,
+    "showRealtimeIndicator" : true,
+    "variant" : "auto",
+    "border" : true,
+    "refreshInterval" : "",
+    "kpiDetailsNavigation" : false,
+    "followFilters" : true,
+    "hideFiltersInfo" : false,
+    "filterConfigurations" : "@state.parFilters",
+    "hideHeader" : false,
+    "refreshFrequency" : ""
+  },
+  "eventMappings" : [ ],
+  "slot" : "ckluqdn0h005o2a82m7otv3y4",
+  "definition" : {
+    "id" : "67cf18a377c70010cb834a2a6910619a",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "heading_1",
+  "elementLabel" : "Heading 1",
+  "propertyValues" : {
+    "label" : "MTI - Painel de controle Coordenação",
+    "level" : "5",
+    "variant" : "header-primary",
+    "wontWrap" : false,
+    "hasNoMargin" : true
+  },
+  "eventMappings" : [ ],
+  "slot" : "ckluqcrlh005i2a82fdr28rx4",
+  "definition" : {
+    "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "image_2",
+  "elementLabel" : "Image 2",
+  "propertyValues" : {
+    "alt" : "hhhh",
+    "src" : "/now-image-placeholder.jpg",
+    "fit" : "fill",
+    "position" : "top left",
+    "height" : null
+  },
+  "eventMappings" : [ ],
+  "slot" : "ckluqdto3005t2a82ejhig5k7",
+  "definition" : {
+    "id" : "15fe506403f8a98575b6df59008ea8f1",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "data_visualization_2",
+  "elementLabel" : "Data visualization 2",
+  "propertyValues" : {
+    "label" : "Chamados - Críticos",
+    "chartType" : "single_score",
+    "dataConfigurations" : "[{\"__viz_config_id\":\"dGFibGV4X3NuY19nZGZfc2VkZXNfY2hhbWFkbzE2MTQ4NTQwOTk5NjA=\",\"__viz_config_label\":\"Chamado\",\"aggregate_function\":\"COUNT\",\"filter_query\":\"priority=1\",\"display_zero\":true,\"chart_settings\":{\"color\":{\"type\":\"single_color\",\"sys_id\":\"65b30395a9fe3dba003277a7b660b5db\",\"conditions\":[]}},\"source_type\":\"table\",\"source_id\":\"x_snc_gdf_sedes_chamado\"}]",
+    "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":false,\"dataLabelConfig\":{\"align\":\"middle\",\"collisions\":\"hide\",\"stacked\":\"individual\",\"valueType\":\"both\"}}",
+    "isRealtime" : true,
+    "showRealtimeIndicator" : true,
+    "variant" : "auto",
+    "border" : true,
+    "refreshInterval" : "",
+    "kpiDetailsNavigation" : false,
+    "followFilters" : true,
+    "hideFiltersInfo" : false,
+    "filterConfigurations" : "@state.parFilters",
+    "hideHeader" : false,
+    "refreshFrequency" : ""
+  },
+  "eventMappings" : [ ],
+  "slot" : "ckluqf12e005x2a8295qdxq58",
+  "definition" : {
+    "id" : "67cf18a377c70010cb834a2a6910619a",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "list__simple_1",
+  "elementLabel" : "List - Simple 1",
+  "propertyValues" : {
+    "listTitle" : "Chamados Abertos - 2 horas",
+    "table" : "x_snc_gdf_sedes_chamado",
+    "query" : "opened_atONLast 2 hours@javascript:gs.beginningOfLast2Hours()@javascript:gs.endOfLast2Hours()",
+    "columns" : null,
+    "limit" : 5,
+    "maxColumns" : 5,
+    "page" : 1,
+    "highlightedValueConfigId" : "",
+    "hideHighlightedValues" : false,
+    "hideHeader" : false,
+    "hideTitle" : false,
+    "hideTitleRowCount" : false,
+    "hideRefreshButton" : false,
+    "hideLastRefreshedText" : false,
+    "hideLinks" : false,
+    "hideViewAll" : false,
+    "hideCellFilter" : true,
+    "hideCheckboxHover" : true,
+    "hideColumnFiltering" : true,
+    "hideColumnGrouping" : true,
+    "hideColumnSorting" : false,
+    "hideFilterPanel" : false,
+    "hideFirstPage" : false,
+    "hideLastPage" : false,
+    "hideLimitSelector" : false,
+    "hideMenuButton" : true,
+    "hideMultiEdit" : false,
+    "hideDeclarativeActions" : false,
+    "hideNextPage" : false,
+    "hidePages" : false,
+    "hidePagination" : true,
+    "hidePanel" : true,
+    "hidePanelAdvanced" : false,
+    "hidePanelConditionDelete" : false,
+    "hidePanelFooter" : false,
+    "hidePanelRestore" : false,
+    "hidePreviousPage" : false,
+    "hideQuickEdit" : true,
+    "hideRange" : false,
+    "hideRowCount" : false,
+    "hideRowSelector" : false,
+    "hideSelectAll" : true,
+    "hideEmptyStateImage" : false,
+    "hideDBViews" : false,
+    "hideUnnecessaryRowSelectors" : true,
+    "wordWrap" : false,
+    "maxCharLimit" : 4000,
+    "refreshRequested" : "",
+    "recordSelectedTable" : "",
+    "recordSelectedSysId" : "",
+    "recordSelectedQuery" : "",
+    "recordSelectedView" : ""
+  },
+  "eventMappings" : [ ],
+  "slot" : "cklurdr61006i2a827ijhxgi8",
+  "definition" : {
+    "id" : "2b1c080881e05dc63b917044290b233f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "data_visualization_3",
+  "elementLabel" : "Data visualization 3",
+  "propertyValues" : {
+    "label" : "Total de Chamados por Situação",
+    "chartType" : "column",
+    "dataConfigurations" : "[{\"__viz_config_id\":\"dGFibGV4X3NuY19nZGZfc2VkZXNfY2hhbWFkbzE2MTQ4NTU4NTMzNzQ=\",\"__viz_config_label\":\"Chamado\",\"aggregate_field\":\"sys_id\",\"aggregate_function\":\"COUNT(DISTINCT\",\"trend_field\":\"activity_due\",\"trend_interval\":\"week\",\"filter_query\":\"active=true\",\"group_by\":\"estado\",\"number_of_groups\":10,\"start_time\":\"P3M\",\"chart_settings\":{\"main_series_label\":\"Estado\"},\"source_type\":\"table\",\"source_id\":\"x_snc_gdf_sedes_chamado\"}]",
+    "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":true,\"xAxisConfig\":{\"title\":\"Chamados\"},\"yAxisConfig\":{\"title\":\"Total\",\"orientation\":\"left\"},\"seriesConfig\":{\"data_0_0\":{\"axis\":\"primary\"}},\"dataLabelConfig\":{\"align\":\"middle\",\"collisions\":\"hide\",\"stacked\":\"individual\",\"valueType\":\"both\",\"type\":\"all\"},\"hideRegister\":false,\"registerConfig\":{\"legendOnly\":true,\"showPercentages\":true},\"registerPosition\":\"right\"}",
+    "isRealtime" : "",
+    "showRealtimeIndicator" : "",
+    "variant" : "MEDIUM",
+    "border" : true,
+    "refreshInterval" : "",
+    "kpiDetailsNavigation" : false,
+    "followFilters" : true,
+    "hideFiltersInfo" : false,
+    "filterConfigurations" : "@state.parFilters",
+    "hideHeader" : false,
+    "refreshFrequency" : ""
+  },
+  "eventMappings" : [ ],
+  "slot" : "cklurgdee006m2a82j9na0f1y",
+  "definition" : {
+    "id" : "67cf18a377c70010cb834a2a6910619a",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+}, {
+  "elementId" : "data_visualization_4",
+  "elementLabel" : "Data visualization 4",
+  "propertyValues" : {
+    "label" : "Chamados - Aguardando terceiros",
+    "chartType" : "single_score",
+    "dataConfigurations" : "[{\"__viz_config_id\":\"dGFibGV4X3NuY19nZGZfc2VkZXNfY2hhbWFkbzE2MTQ4NTY1MzEzNjA=\",\"__viz_config_label\":\"Chamado\",\"aggregate_function\":\"COUNT\",\"filter_query\":\"estado=pendente\",\"display_zero\":true,\"chart_settings\":{\"color\":{\"type\":\"single_color\",\"sys_id\":\"65b30254a9fe3dba00b44ce0710382b3\",\"conditions\":[]}},\"source_type\":\"table\",\"source_id\":\"x_snc_gdf_sedes_chamado\"}]",
+    "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":false,\"scoreSize\":\"md\",\"dataLabelConfig\":{\"align\":\"middle\",\"collisions\":\"hide\",\"stacked\":\"individual\",\"valueType\":\"both\"}}",
+    "isRealtime" : false,
+    "showRealtimeIndicator" : "",
+    "variant" : "auto",
+    "border" : true,
+    "refreshInterval" : "",
+    "kpiDetailsNavigation" : false,
+    "followFilters" : true,
+    "hideFiltersInfo" : false,
+    "filterConfigurations" : "@state.parFilters",
+    "hideHeader" : false,
+    "refreshFrequency" : ""
+  },
+  "eventMappings" : [ ],
+  "slot" : "cklurvbun008p2a82zwlfs9ms",
+  "definition" : {
+    "id" : "67cf18a377c70010cb834a2a6910619a",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "isNonDestructive" : false,
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <dispatched_events/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "items" : null,
+    "root" : {"type":"column","id":"ckluqdn0i005q2a82wyf60hnb","size":"12","rows":[{"type":"row","id":"ckltyso1q00022a82ekd37646","columns":[{"type":"column","id":"ckluqdto3005u2a82cfoaih9q","slotName":"ckluqdto3005t2a82ejhig5k7","size":2},{"type":"column","id":"ckluqcrli005j2a8295qrmkb4","slotName":"ckluqcrlh005i2a82fdr28rx4","size":10}]},{"type":"row","id":"ckluqf12f005z2a82ihqbount","columns":[{"type":"column","id":"ckluqf12e005y2a82x4218pyn","slotName":"ckluqf12e005x2a8295qdxq58","size":"4"},{"type":"column","slotName":"cklurvbun008p2a82zwlfs9ms","id":"cklurvbuo008q2a82vnhgq081","size":"4"},{"type":"column","id":"ckluqdn0i005p2a821q0zdgk8","slotName":"ckluqdn0h005o2a82m7otv3y4","size":"4"}]},{"type":"row","id":"cklurdr62006j2a8211a42ad9","slotName":"cklurdr61006i2a827ijhxgi8"},{"type":"row","id":"cklurgdee006n2a82ez71przq","slotName":"cklurgdee006m2a82j9na0f1y"}]},
+    "rules" : null,
+    "styles" : null,
+    "templateId" : null,
+    "type" : "rowColumn"
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>SEDES</name>
+        <props>[ ]</props>
+        <required_translations>[{"message":"Chamados - Aguardando terceiros","comment":""},{"message":"Total de Chamados por Situação","comment":""},{"message":"MTI - Painel de controle Coordenação","comment":""},{"message":"Chamados - Críticos","comment":""},{"message":"Chamados - Total (Abertos)","comment":""}]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 21:46:17</sys_created_on>
+        <sys_id>deab4b63872e6010e2ebecad3fbb35f9</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>SEDES</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_ux_macroponent_deab4b63872e6010e2ebecad3fbb35f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 15:15:59</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item>
+        <sc_catalog display_value="SEDES">bb9c422e1be62050acaeea47b04bcb34</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:01</sys_created_on>
+        <sys_id>eb3e42ae1be62050acaeea47b04bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SEDES.FALTA DE ENERGIA</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_eb3e42ae1be62050acaeea47b04bcbdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:01</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_catalog_eb3e42ae1be62050acaeea47b04bcbdb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="FALTA DE ENERGIA">b65b466a1be62050acaeea47b04bcb38</sc_cat_item><sc_catalog display_value="SEDES">bb9c422e1be62050acaeea47b04bcb34</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-28 14:44:01</sys_created_on><sys_id>eb3e42ae1be62050acaeea47b04bcbdb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SEDES.FALTA DE ENERGIA</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_catalog_eb3e42ae1be62050acaeea47b04bcbdb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-28 14:44:01</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2040949414</payload_hash>
+        <record_name>SEDES.FALTA DE ENERGIA</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:01</sys_created_on>
+        <sys_id>ab3e42ae1be62050acaeea47b04bcbde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177e918a0730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:01</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ef3e42ae17e62050c00b5325e13da9dd</update_guid>
+        <update_guid_history>ef3e42ae17e62050c00b5325e13da9dd:2040949414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SEDES.FALTA DE ENERGIA">1d5ec2ae1be62050acaeea47b04bcb91</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:44:24</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>319a30ce433049cfbb19e77e359f9279</sys_id>
+        <sys_metadata>eb3e42ae1be62050acaeea47b04bcbdb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SEDES.FALTA DE ENERGIA</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent display_value="">b65b466a1be62050acaeea47b04bcb38</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_eb3e42ae1be62050acaeea47b04bcbdb</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_eb3e42ae1be62050acaeea47b04bcbdb">ab3e42ae1be62050acaeea47b04bcbde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:44:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

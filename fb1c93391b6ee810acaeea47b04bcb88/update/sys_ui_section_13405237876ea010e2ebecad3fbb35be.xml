@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Controle de Estoque" section_id="13405237876ea010e2ebecad3fbb35be" sys_domain="global" table="x_snc_gdf_sedes_estoque_saida" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.codigo</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-04 12:05:50</sys_created_on>
+            <sys_id>1160d237876ea010e2ebecad3fbb350c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Controle de Estoque" display_value="Controle de Estoque" name="x_snc_gdf_sedes_estoque_saida" sys_domain="global" view="4f9c1ba71b162010acaeea47b04bcb24">13405237876ea010e2ebecad3fbb35be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-04 12:05:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.material</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-04 12:05:50</sys_created_on>
+            <sys_id>9560d237876ea010e2ebecad3fbb350c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Controle de Estoque" display_value="Controle de Estoque" name="x_snc_gdf_sedes_estoque_saida" sys_domain="global" view="4f9c1ba71b162010acaeea47b04bcb24">13405237876ea010e2ebecad3fbb35be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-04 12:05:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material.quantidade_atual</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-04 12:05:50</sys_created_on>
+            <sys_id>1d60d237876ea010e2ebecad3fbb350c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Controle de Estoque" display_value="Controle de Estoque" name="x_snc_gdf_sedes_estoque_saida" sys_domain="global" view="4f9c1ba71b162010acaeea47b04bcb24">13405237876ea010e2ebecad3fbb35be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-04 12:05:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Controle de Estoque</caption>
+            <header>false</header>
+            <name>x_snc_gdf_sedes_estoque_saida</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-04 12:05:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13405237876ea010e2ebecad3fbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gdf_sedes_estoque_saida</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_ui_section_13405237876ea010e2ebecad3fbb35be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-04 12:05:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">4f9c1ba71b162010acaeea47b04bcb24</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

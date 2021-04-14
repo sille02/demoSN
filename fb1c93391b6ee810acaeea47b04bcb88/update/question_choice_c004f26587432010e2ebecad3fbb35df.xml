@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>21</misc>
+        <order>300</order>
+        <published_ref display_value="halógenas">d14303fe872a2050e2ebecad3fbb354e</published_ref>
+        <question display_value="Qual o tipo de lâmpada atual?">0004f26587432010e2ebecad3fbb3585</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-03-22 11:26:27</sys_created_on>
+        <sys_id>c004f26587432010e2ebecad3fbb35df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>halógenas</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>question_choice_c004f26587432010e2ebecad3fbb35df</sys_update_name>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:26:27</sys_updated_on>
+        <text>halógenas</text>
+        <value>halogena</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=c004f26587432010e2ebecad3fbb35df"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>21</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>misc</field>
+        <id>c004f26587432010e2ebecad3fbb35df</id>
+        <parent/>
+        <reference_amount>3.8002</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-03-22 11:26:27</sys_created_on>
+        <sys_id>0004f26587432010e2ebecad3fbb35e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:26:27</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>rec_misc</field>
+        <id>c004f26587432010e2ebecad3fbb35df</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-03-22 11:26:27</sys_created_on>
+        <sys_id>8004f26587432010e2ebecad3fbb35e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:26:27</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

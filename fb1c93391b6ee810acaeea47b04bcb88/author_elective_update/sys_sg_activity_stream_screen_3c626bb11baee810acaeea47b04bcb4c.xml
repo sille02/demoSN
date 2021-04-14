@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="DELETE">
+        <add_additional_comment_button>false</add_additional_comment_button>
+        <add_attachment_button>false</add_attachment_button>
+        <add_work_note_button>false</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description> Secretaria de Desenvolvimento Social Chamado</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>background</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Wrench">a862ebb91b6ee810acaeea47b04bcbfe</icon>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 12:56:12</sys_created_on>
+        <sys_id>3c626bb11baee810acaeea47b04bcb4c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_3c626bb11baee810acaeea47b04bcb4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 11:07:46</sys_updated_on>
+        <table>x_snc_gdf_sedes_chamado</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="DELETE" query="documentkey=3c626bb11baee810acaeea47b04bcb4c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sys_sg_activity_stream_screen_3c626bb11baee810acaeea47b04bcb4c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen"><sys_sg_activity_stream_screen action="INSERT_OR_UPDATE"><add_additional_comment_button>false</add_additional_comment_button><add_attachment_button>false</add_attachment_button><add_work_note_button>false</add_work_note_button><available_offline>false</available_offline><description> Secretaria de Desenvolvimento Social Chamado</description><dynamic_prefetch_count/><empty_state/><fetch_type>background</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Wrench">a862ebb91b6ee810acaeea47b04bcbfe</icon><name>Activity Stream</name><roles_override/><sys_class_name>sys_sg_activity_stream_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-26 12:56:12</sys_created_on><sys_id>3c626bb11baee810acaeea47b04bcb4c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Activity Stream</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sys_sg_activity_stream_screen_3c626bb11baee810acaeea47b04bcb4c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-26 11:07:46</sys_updated_on><table>x_snc_gdf_sedes_chamado</table></sys_sg_activity_stream_screen><sys_translated_text action="delete_multiple" query="documentkey=3c626bb11baee810acaeea47b04bcb4c"/></record_update>]]></payload>
+        <payload_hash>-165272710</payload_hash>
+        <record_name>Activity Stream</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-26 11:07:46</sys_created_on>
+        <sys_id>251613b687cf2410e2ebecad3fbb3545</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786e37fd9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 11:07:46</sys_updated_on>
+        <type>Activity Stream Screen</type>
+        <update_guid>e91613b6e1cf24104d25cb084b33dc44</update_guid>
+        <update_guid_history>e91613b6e1cf24104d25cb084b33dc44:-165272710,2562ebb158aee81040449b4f71836c03:781029459</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-26 11:08:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_activity_stream_screen">sys_sg_activity_stream_screen</sys_db_object>
+        <sys_id>be7fc30d5ae2498682bc7f6774c20d21</sys_id>
+        <sys_metadata>3c626bb11baee810acaeea47b04bcb4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sys_sg_activity_stream_screen_3c626bb11baee810acaeea47b04bcb4c</sys_update_name>
+        <sys_update_version display_value="sys_sg_activity_stream_screen_3c626bb11baee810acaeea47b04bcb4c">251613b687cf2410e2ebecad3fbb3545</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 11:08:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

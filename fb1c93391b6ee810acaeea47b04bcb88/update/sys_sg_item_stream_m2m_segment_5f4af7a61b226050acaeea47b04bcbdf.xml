@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Chamados Item Stream">9f4af7a61b226050acaeea47b04bcbd8</item_stream>
+        <segment display_value="My Request Stream Segment">c1c2e52787332300e0ef0cf888cb0bcd</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 22:36:08</sys_created_on>
+        <sys_id>5f4af7a61b226050acaeea47b04bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_5f4af7a61b226050acaeea47b04bcbdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 22:36:08</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

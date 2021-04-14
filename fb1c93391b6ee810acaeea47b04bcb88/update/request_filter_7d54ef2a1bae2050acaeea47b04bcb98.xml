@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="request_filter">
+    <request_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>1</applies_to>
+        <data_item/>
+        <filter/>
+        <group/>
+        <item_stream/>
+        <last_used/>
+        <mobile>false</mobile>
+        <portal_page display_value="standard_ticket">c729488287310010e0ef0cf888cb0ba8</portal_page>
+        <primary_display>servico</primary_display>
+        <roles/>
+        <secondary_display>number,subcategoria</secondary_display>
+        <short_description/>
+        <sys_class_name>request_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 21:00:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d54ef2a1bae2050acaeea47b04bcb98</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Chamados - teste Leandro</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>request_filter_7d54ef2a1bae2050acaeea47b04bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 10:00:58</sys_updated_on>
+        <table>x_snc_gdf_sedes_chamado</table>
+        <table_name/>
+        <title>Chamados - teste Leandro</title>
+        <user/>
+    </request_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=7d54ef2a1bae2050acaeea47b04bcb98"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7d54ef2a1bae2050acaeea47b04bcb98</documentkey>
+        <fieldname>title</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 21:00:39</sys_created_on>
+        <sys_id>ac7463aa1bae2050acaeea47b04bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 21:00:39</sys_updated_on>
+        <tablename>request_filter</tablename>
+        <value>Chamados - teste Leandro</value>
+    </sys_translated_text>
+</record_update>

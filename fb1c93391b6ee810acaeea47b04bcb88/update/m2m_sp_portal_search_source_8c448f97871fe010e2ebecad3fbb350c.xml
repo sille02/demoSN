@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source">
+    <m2m_sp_portal_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_portal display_value="MTI">f5b34397871fe010e2ebecad3fbb35d5</sp_portal>
+        <sp_search_source display_value="Knowledge Bases">c6170ae86721220023c82e08f585efe6</sp_search_source>
+        <sys_class_name>m2m_sp_portal_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 09:22:31</sys_created_on>
+        <sys_id>8c448f97871fe010e2ebecad3fbb350c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MTI.Knowledge Bases</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>m2m_sp_portal_search_source_8c448f97871fe010e2ebecad3fbb350c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 09:22:31</sys_updated_on>
+    </m2m_sp_portal_search_source>
+</record_update>

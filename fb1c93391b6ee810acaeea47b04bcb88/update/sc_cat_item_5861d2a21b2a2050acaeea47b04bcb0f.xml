@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>false</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<ul style="list-style-position: inside;"><li>Deseja Implantar novo ponto de tomada no ambiente.</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Implantar novos pontos de tomada</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>d1a11aa21b2a2050acaeea47b04bcb4b</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5861d2a21b2a2050acaeea47b04bcb0f&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>submit</request_method>
+        <roles>snc_internal</roles>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template>
+        <short_description>Nova tomada</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>draft</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:59:18</sys_created_on>
+        <sys_id>5861d2a21b2a2050acaeea47b04bcb0f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Implantar novos pontos de tomada</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_5861d2a21b2a2050acaeea47b04bcb0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-02 21:07:40</sys_updated_on>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5861d2a21b2a2050acaeea47b04bcb0f"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>5861d2a21b2a2050acaeea47b04bcb0f</documentkey>
+        <fieldname>description</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:59:18</sys_created_on>
+        <sys_id>6bb19aa21b2a2050acaeea47b04bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:59:18</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Deseja Implantar novo ponto de tomada no ambiente.&lt;/li&gt;&lt;/ul&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>5861d2a21b2a2050acaeea47b04bcb0f</documentkey>
+        <fieldname>name</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:59:18</sys_created_on>
+        <sys_id>13b19aa21b2a2050acaeea47b04bcb49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:59:18</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Implantar novos pontos de tomada</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>5861d2a21b2a2050acaeea47b04bcb0f</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:59:18</sys_created_on>
+        <sys_id>e3b19aa21b2a2050acaeea47b04bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:59:18</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Nova tomada</value>
+    </sys_translated_text>
+    <fx_price action="delete_multiple" query="id=5861d2a21b2a2050acaeea47b04bcb0f"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>5861d2a21b2a2050acaeea47b04bcb0f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:59:18</sys_created_on>
+        <sys_id>dfb19aa21b2a2050acaeea47b04bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:59:18</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>plug-icon-png-26.png</file_name>
+        <hash>b19226b31c3c0256727574be6eb3bf0e3102e9f3c1114401a4d645fa4a0c0472</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>9536</size_bytes>
+        <size_compressed>8166</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:58:53</sys_created_on>
+        <sys_id>d1a11aa21b2a2050acaeea47b04bcb4b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-02-28 14:58:53</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>5861d2a21b2a2050acaeea47b04bcb0f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="plug-icon-png-26.png" sys_id="d1a11aa21b2a2050acaeea47b04bcb4b">d1a11aa21b2a2050acaeea47b04bcb4b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:58:53</sys_created_on>
+        <sys_id>15a11aa21b2a2050acaeea47b04bcb4b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>10876</length>
+        <position>1</position>
+        <sys_attachment display_value="plug-icon-png-26.png" sys_id="d1a11aa21b2a2050acaeea47b04bcb4b">d1a11aa21b2a2050acaeea47b04bcb4b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 14:58:53</sys_created_on>
+        <sys_id>95a11aa21b2a2050acaeea47b04bcb4b</sys_id>
+    </sys_attachment_doc>
+</record_update>

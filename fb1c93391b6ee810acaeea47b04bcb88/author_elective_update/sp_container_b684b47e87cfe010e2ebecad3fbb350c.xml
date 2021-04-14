@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>GDF - SEDE - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="index_sedes">50d0db221b6e2050acaeea47b04bcb1c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:21:59</sys_created_on>
+        <sys_id>b684b47e87cfe010e2ebecad3fbb350c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GDF - SEDE - Container 4</sys_name>
+        <sys_package display_value="BNB-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BNB-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sp_container_b684b47e87cfe010e2ebecad3fbb350c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:21:59</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sp_container_b684b47e87cfe010e2ebecad3fbb350c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>GDF - SEDE - Container 4</name><order>4</order><sp_page display_value="index_sedes">50d0db221b6e2050acaeea47b04bcb1c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 23:21:59</sys_created_on><sys_id>b684b47e87cfe010e2ebecad3fbb350c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GDF - SEDE - Container 4</sys_name><sys_package display_value="BNB-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="BNB-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sp_container_b684b47e87cfe010e2ebecad3fbb350c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 23:21:59</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-2006220736</payload_hash>
+        <record_name>GDF - SEDE - Container 4</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:21:59</sys_created_on>
+        <sys_id>368434be87cfe010e2ebecad3fbb353e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786bb1d26c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:21:59</sys_updated_on>
+        <type>Container</type>
+        <update_guid>3e8434be14cfe010a306e907c820883d</update_guid>
+        <update_guid_history>3e8434be14cfe010a306e907c820883d:-2006220736</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GDF - SEDE - Container 4">bc15b0fe87cfe010e2ebecad3fbb3529</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:24:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>95a333d1353548f1b828d20a6bf6b589</sys_id>
+        <sys_metadata>b684b47e87cfe010e2ebecad3fbb350c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GDF - SEDE - Container 4</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sp_container_b684b47e87cfe010e2ebecad3fbb350c</sys_update_name>
+        <sys_update_version display_value="sp_container_b684b47e87cfe010e2ebecad3fbb350c">368434be87cfe010e2ebecad3fbb353e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:24:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Unidades" max_length="40" name="x_snc_gdf_sedes_unidades" sizeclass="4" type="collection">
+        <element default="true" label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Latitude" max_length="20" name="latitude" type="string"/>
+        <element label="longitude" max_length="20" name="longitude" type="string"/>
+        <element display="true" label="Nome" max_length="100" name="nome" type="string"/>
+        <element choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Centro de Referência de Assistência Social" value="CRAS"/>
+                <element inactive_on_update="false" label="Centros de Convivência e Fortalecimento de Vínculos" value="CECON"/>
+                <element inactive_on_update="false" label="Centros de Referência Especializados de Assistência Social" value="CREAS"/>
+                <element inactive_on_update="false" label="Restaurante Comunitário" value="restaurante"/>
+            </choice>
+        </element>
+    </element>
+</database>

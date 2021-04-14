@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d5e867b91baee810acaeea47b04bcb68" sys_domain="global" table="x_snc_gdf_sedes_pedido" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>80b9216b87e26010e2ebecad3fbb35bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>0cb9216b87e26010e2ebecad3fbb35bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>responsavel</element>
+            <position>2</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>80b9216b87e26010e2ebecad3fbb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>18b9216b87e26010e2ebecad3fbb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>4</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>9cb9216b87e26010e2ebecad3fbb35bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_hr_le_activity</element>
+            <position>5</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>14b9216b87e26010e2ebecad3fbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>6</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>98b9216b87e26010e2ebecad3fbb35bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>10b9216b87e26010e2ebecad3fbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>situacao</element>
+            <position>8</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>94b9216b87e26010e2ebecad3fbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>9</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>1cb9216b87e26010e2ebecad3fbb35be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>10</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>90b9216b87e26010e2ebecad3fbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>11</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>18b9216b87e26010e2ebecad3fbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chamado_vinculado</element>
+            <position>12</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>9cb9216b87e26010e2ebecad3fbb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>14b9216b87e26010e2ebecad3fbb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>14</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>98b9216b87e26010e2ebecad3fbb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chamado_vinculado.categoria</element>
+            <position>15</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>10b9216b87e26010e2ebecad3fbb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chamado_vinculado.subcategoria</element>
+            <position>16</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>94b9216b87e26010e2ebecad3fbb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chamado_vinculado.servico</element>
+            <position>17</position>
+            <sys_created_by>joao</sys_created_by>
+            <sys_created_on>2021-03-03 14:38:14</sys_created_on>
+            <sys_id>1cb9216b87e26010e2ebecad3fbb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>joao</sys_updated_by>
+            <sys_updated_on>2021-03-03 14:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lista_concluida</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-03 17:06:53</sys_created_on>
+            <sys_id>3dbb4ae787a66010e2ebecad3fbb3513</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gdf_sedes_pedido" sys_domain="global" view="Default view">d5e867b91baee810acaeea47b04bcb68</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-03 17:06:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_gdf_sedes_pedido</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 13:24:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5e867b91baee810acaeea47b04bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gdf_sedes_pedido</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_ui_section_d5e867b91baee810acaeea47b04bcb68</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 13:24:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

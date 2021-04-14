@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">14d05f221b6e2050acaeea47b04bcb96</sp_column>
+        <sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:15:20</sys_created_on>
+        <sys_id>650374fa87cfe010e2ebecad3fbb352c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BNB-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BNB-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sp_instance_650374fa87cfe010e2ebecad3fbb352c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:15:20</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=650374fa87cfe010e2ebecad3fbb352c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sp_instance_650374fa87cfe010e2ebecad3fbb352c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">14d05f221b6e2050acaeea47b04bcb96</sp_column><sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-25 23:15:20</sys_created_on><sys_id>650374fa87cfe010e2ebecad3fbb352c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="BNB-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="BNB-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sp_instance_650374fa87cfe010e2ebecad3fbb352c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-25 23:15:20</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=650374fa87cfe010e2ebecad3fbb352c"/></record_update>]]></payload>
+        <payload_hash>685497792</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:15:20</sys_created_on>
+        <sys_id>690374fa87cfe010e2ebecad3fbb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786babbe540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:15:20</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>610374fa31cfe0107029da873b48292e</update_guid>
+        <update_guid_history>610374fa31cfe0107029da873b48292e:685497792</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d52338fa87cfe010e2ebecad3fbb3538</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:15:52</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>4ec5aa79105c4a99b8f3fac4a7c48c31</sys_id>
+        <sys_metadata>650374fa87cfe010e2ebecad3fbb352c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sp_instance_650374fa87cfe010e2ebecad3fbb352c</sys_update_name>
+        <sys_update_version display_value="sp_instance_650374fa87cfe010e2ebecad3fbb352c">690374fa87cfe010e2ebecad3fbb352e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:15:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

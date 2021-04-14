@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text>[PA AppSec] Daily Data Collection</details_link_text>
+        <details_page/>
+        <details_url>/sysauto_pa.do?sys_id=a3e006e0b3301300e64be12b86a8dc67</details_url>
+        <dismiss_options>session_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="La Jolla Urgent">7f8fe758c31023002ff2554d81d3ae99</display_style>
+        <from>2021-02-28 19:45:36</from>
+        <glyph>info-circle</glyph>
+        <glyph_alt_text/>
+        <name>Alert : Appsec Daily Data Collection</name>
+        <public>false</public>
+        <roles>admin</roles>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <sn_communities_announcement_type/>
+        <sn_communities_forums/>
+        <sn_communities_notification>false</sn_communities_notification>
+        <sn_communities_notification_sent>false</sn_communities_notification_sent>
+        <sn_communities_portals>5b49418bdb4aa200b1f6f78eaf96195f</sn_communities_portals>
+        <sn_communities_selected_forums/>
+        <summary>Please assign unlock Run As user or assign valid user.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>d143d3261b6e2050acaeea47b04bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>announcement_d143d3261b6e2050acaeea47b04bcba4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <title>Invalid Run As User</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=d143d3261b6e2050acaeea47b04bcba4"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>details</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>9543d3261b6e2050acaeea47b04bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>details_link_text</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>d143d3261b6e2050acaeea47b04bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>[PA AppSec] Daily Data Collection</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>glyph_alt_text</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>9d43d3261b6e2050acaeea47b04bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>name</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>1d43d3261b6e2050acaeea47b04bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>Alert : Appsec Daily Data Collection</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>summary</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>d943d3261b6e2050acaeea47b04bcba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>Please assign unlock Run As user or assign valid user.</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>d143d3261b6e2050acaeea47b04bcba4</documentkey>
+        <fieldname>title</fieldname>
+        <language>pt</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 19:45:36</sys_created_on>
+        <sys_id>5943d3261b6e2050acaeea47b04bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 19:45:36</sys_updated_on>
+        <tablename>announcement</tablename>
+        <value>Invalid Run As User</value>
+    </sys_translated_text>
+</record_update>

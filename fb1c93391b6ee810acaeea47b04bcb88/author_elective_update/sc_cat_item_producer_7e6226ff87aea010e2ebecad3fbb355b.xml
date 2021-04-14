@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <access_type>restricted</access_type>
+        <active>false</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Cabeamento">50e21ee21b2a2050acaeea47b04bcb9b</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<ul style="list-style-position: inside;"><li>Ao identificar uma falha na internet devido a cabeamento, roteador etc.</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>107a46b7872ea010e2ebecad3fbb356d</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>cabo, internet</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Falta de Internet</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>ba6226ff87aea010e2ebecad3fbb357a</picture>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7e6226ff87aea010e2ebecad3fbb355b&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref display_value="Falta de Internet">a9b94a37872ea010e2ebecad3fbb3535</published_ref>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script/>
+        <sc_catalogs>bb9c422e1be62050acaeea47b04bcb34</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script><![CDATA[current.categoria = 'manutencao_predial';
+current.subcategoria = 'cabeamento';
+current.servico = 'falta_de_internet';]]></script>
+        <short_description>Identificação de falta de internet</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>draft</state>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>7e6226ff87aea010e2ebecad3fbb355b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Falta de Internet</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_producer_7e6226ff87aea010e2ebecad3fbb355b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:35</sys_updated_on>
+        <table_name>x_snc_gdf_sedes_chamado</table_name>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=7e6226ff87aea010e2ebecad3fbb355b"/>
+    <fx_price action="DELETE" query="id=7e6226ff87aea010e2ebecad3fbb355b"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>7e6226ff87aea010e2ebecad3fbb355b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>726226ff87aea010e2ebecad3fbb355e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:35</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <hash>65d4c3b2721b0b9e452c3c8b3e8d881ccacaa4bc8713e7395826bf7b44bb9bc1</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2888</size_bytes>
+        <size_compressed>2715</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>ba6226ff87aea010e2ebecad3fbb357a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:34</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>7e6226ff87aea010e2ebecad3fbb355b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="ba6226ff87aea010e2ebecad3fbb357a">ba6226ff87aea010e2ebecad3fbb357a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>f26226ff87aea010e2ebecad3fbb357d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>3608</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="ba6226ff87aea010e2ebecad3fbb357a">ba6226ff87aea010e2ebecad3fbb357a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:35</sys_created_on>
+        <sys_id>fe6226ff87aea010e2ebecad3fbb357d</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_producer_7e6226ff87aea010e2ebecad3fbb355b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;false&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category display_value="Cabeamento"&gt;50e21ee21b2a2050acaeea47b04bcb9b&lt;/category&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;Ao identificar uma falha na internet devido a cabeamento, roteador etc.&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon&gt;107a46b7872ea010e2ebecad3fbb356d&lt;/icon&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta&gt;cabo, internet&lt;/meta&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Falta de Internet&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture&gt;ba6226ff87aea010e2ebecad3fbb357a&lt;/picture&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=7e6226ff87aea010e2ebecad3fbb355b&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref display_value="Falta de Internet"&gt;a9b94a37872ea010e2ebecad3fbb3535&lt;/published_ref&gt;&lt;recurring_frequency/&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script/&gt;&lt;sc_catalogs&gt;bb9c422e1be62050acaeea47b04bcb34&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[current.categoria = 'manutencao_predial';
+current.subcategoria = 'cabeamento';
+current.servico = 'falta_de_internet';]]&gt;&lt;/script&gt;&lt;short_description&gt;Identificação de falta de internet&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;draft&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-04 13:24:34&lt;/sys_created_on&gt;&lt;sys_id&gt;7e6226ff87aea010e2ebecad3fbb355b&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Falta de Internet&lt;/sys_name&gt;&lt;sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes"&gt;fb1c93391b6ee810acaeea47b04bcb88&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="GDF-SEDES"&gt;fb1c93391b6ee810acaeea47b04bcb88&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_7e6226ff87aea010e2ebecad3fbb355b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-04 13:24:35&lt;/sys_updated_on&gt;&lt;table_name&gt;x_snc_gdf_sedes_chamado&lt;/table_name&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7e6226ff87aea010e2ebecad3fbb355b"/&gt;&lt;fx_price action="delete_multiple" query="id=7e6226ff87aea010e2ebecad3fbb355b"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="BRL"&gt;BRL&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;7e6226ff87aea010e2ebecad3fbb355b&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-04 13:24:34&lt;/sys_created_on&gt;&lt;sys_id&gt;726226ff87aea010e2ebecad3fbb355e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-04 13:24:35&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;sys_attachment action="INSERT_OR_UPDATE"&gt;&lt;average_image_color/&gt;&lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;&lt;compressed&gt;true&lt;/compressed&gt;&lt;content_type&gt;image/jpeg&lt;/content_type&gt;&lt;encryption_context/&gt;&lt;file_name&gt;picture&lt;/file_name&gt;&lt;hash&gt;65d4c3b2721b0b9e452c3c8b3e8d881ccacaa4bc8713e7395826bf7b44bb9bc1&lt;/hash&gt;&lt;image_height/&gt;&lt;image_width/&gt;&lt;size_bytes&gt;2888&lt;/size_bytes&gt;&lt;size_compressed&gt;2715&lt;/size_compressed&gt;&lt;state&gt;available&lt;/state&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-04 13:24:34&lt;/sys_created_on&gt;&lt;sys_id&gt;ba6226ff87aea010e2ebecad3fbb357a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-04 13:24:34&lt;/sys_updated_on&gt;&lt;table_name&gt;ZZ_YYsc_cat_item_producer&lt;/table_name&gt;&lt;table_sys_id&gt;7e6226ff87aea010e2ebecad3fbb355b&lt;/table_sys_id&gt;&lt;/sys_attachment&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;H4sIAAAAAAAAAA==&lt;/data&gt;&lt;length&gt;16&lt;/length&gt;&lt;position&gt;0&lt;/position&gt;&lt;sys_attachment display_value="picture" sys_id="ba6226ff87aea010e2ebecad3fbb357a"&gt;ba6226ff87aea010e2ebecad3fbb357a&lt;/sys_attachment&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-04 13:24:34&lt;/sys_created_on&gt;&lt;sys_id&gt;f26226ff87aea010e2ebecad3fbb357d&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;&lt;data&gt;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&lt;/data&gt;&lt;length&gt;3608&lt;/length&gt;&lt;position&gt;1&lt;/position&gt;&lt;sys_attachment display_value="picture" sys_id="ba6226ff87aea010e2ebecad3fbb357a"&gt;ba6226ff87aea010e2ebecad3fbb357a&lt;/sys_attachment&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-04 13:24:35&lt;/sys_created_on&gt;&lt;sys_id&gt;fe6226ff87aea010e2ebecad3fbb357d&lt;/sys_id&gt;&lt;/sys_attachment_doc&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Falta de Internet</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:35</sys_created_on>
+        <sys_id>036226ff87aea010e2ebecad3fbb3589</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177fd6957a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:35</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>836226ff22aea010af96be9c3859cb88</update_guid>
+        <update_guid_history>836226ff22aea010af96be9c3859cb88:-1180144698,726226ffd5aea01083613424c65d0b61:956126300</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Falta de Internet">0eb2a6ff1b6e6410acaeea47b04bcbdd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-04 13:25:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>79af6175315b4d7098c51c0441d87900</sys_id>
+        <sys_metadata>7e6226ff87aea010e2ebecad3fbb355b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Falta de Internet</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent display_value="Chamado">e76ed77d1b6ee810acaeea47b04bcba8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_7e6226ff87aea010e2ebecad3fbb355b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_7e6226ff87aea010e2ebecad3fbb355b">036226ff87aea010e2ebecad3fbb3589</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:25:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

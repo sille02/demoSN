@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="pedido_de_material" table="x_snc_gdf_sedes_chamado" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>pedido_de_material</element>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-03 13:24:42</sys_created_on>
+            <sys_id>b6d89d2387a26010e2ebecad3fbb35b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pedido_de_material</sys_name>
+            <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+            <sys_update_name>sys_choice_x_snc_gdf_sedes_chamado_pedido_de_material</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-03 13:24:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pedido_de_material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Não</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-03 13:25:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ede8952387a26010e2ebecad3fbb35e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-03 13:25:01</sys_updated_on>
+            <value>false</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pedido_de_material</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sim</label>
+            <language>en</language>
+            <name>x_snc_gdf_sedes_chamado</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-03 13:24:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64d8956387a26010e2ebecad3fbb3514</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-03 13:24:41</sys_updated_on>
+            <value>true</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

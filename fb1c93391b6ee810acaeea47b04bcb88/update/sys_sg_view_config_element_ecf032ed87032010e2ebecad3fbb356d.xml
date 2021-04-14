@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_icon_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>leandro</sys_created_by>
+        <sys_created_on>2021-03-22 11:13:06</sys_created_on>
+        <sys_id>ecf032ed87032010e2ebecad3fbb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_icon_01_element</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_ecf032ed87032010e2ebecad3fbb356d</sys_update_name>
+        <sys_updated_by>leandro</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:13:06</sys_updated_on>
+        <view_config display_value="Estoque List Screen View Config">8562abb11baee810acaeea47b04bcb15</view_config>
+        <view_template_slot display_value="text_icon_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 12:46:01</sys_created_on>
+        <sys_id>6700abfd1b6ee810acaeea47b04bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_gdf_sedes_estoque.x_snc_gdf_sedes.saida_leitura</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_security_acl display_value="x_snc_gdf_sedes_estoque">6300abfd1b6ee810acaeea47b04bcb2d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6700abfd1b6ee810acaeea47b04bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 12:46:01</sys_updated_on>
+        <sys_user_role display_value="x_snc_gdf_sedes.saida_leitura" name="x_snc_gdf_sedes.saida_leitura">4f7c93f91b6ee810acaeea47b04bcb8f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

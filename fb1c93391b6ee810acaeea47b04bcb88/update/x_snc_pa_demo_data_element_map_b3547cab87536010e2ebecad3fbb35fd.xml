@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_pa_demo_data_element_map">
+    <x_snc_pa_demo_data_element_map action="INSERT_OR_UPDATE">
+        <breakdown display_value="Knowledge Category">fd30ad94dbaa9050b6f9d514ca961939</breakdown>
+        <element_sys_id>daf3845c5344201031a5ddeeff7b1243</element_sys_id>
+        <name>k82</name>
+        <order>17</order>
+        <sys_class_name>x_snc_pa_demo_data_element_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 17:32:23</sys_created_on>
+        <sys_id>b3547cab87536010e2ebecad3fbb35fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>k82</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>x_snc_pa_demo_data_element_map_b3547cab87536010e2ebecad3fbb35fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 17:32:23</sys_updated_on>
+    </x_snc_pa_demo_data_element_map>
+</record_update>

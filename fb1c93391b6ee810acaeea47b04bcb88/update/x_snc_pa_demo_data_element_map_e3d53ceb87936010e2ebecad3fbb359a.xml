@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_pa_demo_data_element_map">
+    <x_snc_pa_demo_data_element_map action="INSERT_OR_UPDATE">
+        <breakdown display_value="AssignmentGroup">38493f54dbb74c102be956f9dc961933</breakdown>
+        <element_sys_id>1958e1e7db121c10ef473ec3e296196d</element_sys_id>
+        <name>APPS-L1-Support</name>
+        <order>39</order>
+        <sys_class_name>x_snc_pa_demo_data_element_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 17:38:55</sys_created_on>
+        <sys_id>e3d53ceb87936010e2ebecad3fbb359a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>APPS-L1-Support</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>x_snc_pa_demo_data_element_map_e3d53ceb87936010e2ebecad3fbb359a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 17:38:55</sys_updated_on>
+    </x_snc_pa_demo_data_element_map>
+</record_update>

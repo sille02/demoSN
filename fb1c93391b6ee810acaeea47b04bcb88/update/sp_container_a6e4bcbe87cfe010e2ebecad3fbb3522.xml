@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>GDF - SEDE - Container 6</name>
+        <order>6</order>
+        <sp_page display_value="index_sedes">50d0db221b6e2050acaeea47b04bcb1c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-25 23:23:36</sys_created_on>
+        <sys_id>a6e4bcbe87cfe010e2ebecad3fbb3522</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GDF - SEDE - Container 6</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sp_container_a6e4bcbe87cfe010e2ebecad3fbb3522</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-25 23:25:24</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

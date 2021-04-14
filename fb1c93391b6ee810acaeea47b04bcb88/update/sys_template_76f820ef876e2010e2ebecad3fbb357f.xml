@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Problema - setor configuração</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Deve ser encaminhado para validação com equipe X</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 09:56:11</sys_created_on>
+        <sys_id>76f820ef876e2010e2ebecad3fbb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problema - setor configuração</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sys_template_76f820ef876e2010e2ebecad3fbb357f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 09:56:11</sys_updated_on>
+        <table>problem_task</table>
+        <template>due_date=2021-03-18 01:55:04^priority=3^problem=dbf7646f876e2010e2ebecad3fbb3512^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

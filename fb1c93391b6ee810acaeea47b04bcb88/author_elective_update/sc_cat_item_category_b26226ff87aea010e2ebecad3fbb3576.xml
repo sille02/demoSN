@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Falta de Internet">7e6226ff87aea010e2ebecad3fbb355b</sc_cat_item>
+        <sc_category display_value="Cabeamento">50e21ee21b2a2050acaeea47b04bcb9b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>b26226ff87aea010e2ebecad3fbb3576</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cabeamento.Falta de Internet</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_update_name>sc_cat_item_category_b26226ff87aea010e2ebecad3fbb3576</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</application>
+        <file_path/>
+        <instance_id>d317df6fdb12601091232f17d49619b4</instance_id>
+        <instance_name>demonowbsb</instance_name>
+        <name>sc_cat_item_category_b26226ff87aea010e2ebecad3fbb3576</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Falta de Internet">7e6226ff87aea010e2ebecad3fbb355b</sc_cat_item><sc_category display_value="Cabeamento">50e21ee21b2a2050acaeea47b04bcb9b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-04 13:24:34</sys_created_on><sys_id>b26226ff87aea010e2ebecad3fbb3576</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cabeamento.Falta de Internet</sys_name><sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package><sys_policy/><sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope><sys_update_name>sc_cat_item_category_b26226ff87aea010e2ebecad3fbb3576</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-04 13:24:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-787090134</payload_hash>
+        <record_name>Cabeamento.Falta de Internet</record_name>
+        <reverted_from/>
+        <source>f31c93391b6ee810acaeea47b04bcb8b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 13:24:34</sys_created_on>
+        <sys_id>7e6226ff87aea010e2ebecad3fbb3579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177fd6955fb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:24:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b26226ffb2aea010b0c2225f3d621b79</update_guid>
+        <update_guid_history>b26226ffb2aea010b0c2225f3d621b79:-787090134</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cabeamento.Falta de Internet">0e50b2778722e010e2ebecad3fbb35f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 14:25:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>48f08d799dea418898cdea43c1438d44</sys_id>
+        <sys_metadata>b26226ff87aea010e2ebecad3fbb3576</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cabeamento.Falta de Internet</sys_name>
+        <sys_package display_value="GDF-SEDES" source="x_snc_gdf_sedes">fb1c93391b6ee810acaeea47b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GDF-SEDES">fb1c93391b6ee810acaeea47b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">68bb0871901e4e8daf34c2211f47b7a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b26226ff87aea010e2ebecad3fbb3576</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b26226ff87aea010e2ebecad3fbb3576">7e6226ff87aea010e2ebecad3fbb3579</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 14:25:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
